@@ -1,0 +1,3201 @@
+customer_id,city,first_order_date,acquisition_channel
+1,Diyarbakir,2025-04-22,Organic
+2,Konya,2025-12-04,Social
+3,Izmir,2025-08-02,Email
+4,Ankara,2025-12-18,Email
+5,Samsun,2025-03-20,Organic
+6,Konya,2025-06-22,Organic
+7,Ankara,2025-04-10,Organic
+8,Diyarbakir,2025-03-05,Paid Ads
+9,Samsun,2025-12-08,Social
+10,Ankara,2025-04-01,Social
+11,Ankara,2025-02-14,Organic
+12,Izmir,2025-07-26,Organic
+13,Bursa,2025-07-21,Social
+14,Konya,2025-04-25,Social
+15,Istanbul,2025-10-28,Paid Ads
+16,Antalya,2025-06-28,Organic
+17,Istanbul,2025-08-10,Organic
+18,Antalya,2025-09-01,Organic
+19,Ankara,2025-12-09,Organic
+20,Konya,2025-09-16,Social
+21,Ankara,2025-04-09,Social
+22,Istanbul,2025-03-08,Organic
+23,Gaziantep,2025-07-15,Paid Ads
+24,Izmir,2025-12-04,Organic
+25,Bursa,2025-03-04,Social
+26,Ankara,2025-05-13,Paid Ads
+27,Antalya,2025-03-19,Email
+28,Konya,2025-08-10,Organic
+29,Istanbul,2025-09-05,Email
+30,Antalya,2025-07-16,Email
+31,Istanbul,2025-01-05,Email
+32,Izmir,2025-12-02,Social
+33,Istanbul,2025-03-15,Email
+34,Izmir,2025-12-28,Organic
+35,Samsun,2025-10-27,Email
+36,Ankara,2025-03-26,Paid Ads
+37,Istanbul,2025-11-24,Email
+38,Istanbul,2025-01-18,Organic
+39,Bursa,2025-04-23,Email
+40,Van,2025-04-21,Organic
+41,Istanbul,2025-01-28,Email
+42,Istanbul,2025-07-03,Social
+43,Antalya,2025-02-03,Paid Ads
+44,Ankara,2025-01-10,Email
+45,Samsun,2025-09-21,Social
+46,Istanbul,2025-06-15,Paid Ads
+47,Istanbul,2025-01-07,Email
+48,Ankara,2025-08-04,Organic
+49,Istanbul,2025-07-25,Social
+50,Bursa,2025-02-15,Paid Ads
+51,Istanbul,2025-08-07,Email
+52,Ankara,2025-03-12,Paid Ads
+53,Istanbul,2025-02-18,Social
+54,Istanbul,2025-12-11,Organic
+55,Samsun,2025-10-26,Paid Ads
+56,Trabzon,2025-06-06,Paid Ads
+57,Istanbul,2025-11-21,Email
+58,Diyarbakir,2025-10-17,Paid Ads
+59,Istanbul,2025-04-05,Paid Ads
+60,Istanbul,2025-01-13,Email
+61,Trabzon,2025-02-14,Organic
+62,Gaziantep,2025-06-21,Paid Ads
+63,Istanbul,2025-12-10,Paid Ads
+64,Istanbul,2025-03-23,Organic
+65,Ankara,2025-08-05,Paid Ads
+66,Bursa,2025-11-14,Social
+67,Ankara,2025-05-05,Paid Ads
+68,Diyarbakir,2025-05-01,Social
+69,Bursa,2025-02-12,Organic
+70,Van,2025-10-14,Paid Ads
+71,Diyarbakir,2025-10-02,Organic
+72,Van,2025-07-08,Organic
+73,Istanbul,2025-10-13,Organic
+74,Istanbul,2025-08-21,Social
+75,Izmir,2025-10-10,Social
+76,Istanbul,2025-11-06,Social
+77,Van,2025-02-22,Paid Ads
+78,Izmir,2025-06-23,Email
+79,Istanbul,2025-12-07,Social
+80,Ankara,2025-04-01,Organic
+81,Samsun,2025-06-13,Paid Ads
+82,Istanbul,2025-01-10,Organic
+83,Istanbul,2025-06-25,Social
+84,Konya,2025-09-22,Organic
+85,Izmir,2025-12-22,Email
+86,Gaziantep,2025-12-18,Paid Ads
+87,Istanbul,2025-09-28,Social
+88,Konya,2025-10-23,Email
+89,Izmir,2025-12-12,Social
+90,Izmir,2025-10-09,Social
+91,Eskisehir,2025-11-03,Paid Ads
+92,Ankara,2025-02-13,Social
+93,Izmir,2025-02-09,Organic
+94,Trabzon,2025-02-24,Social
+95,Istanbul,2025-11-23,Paid Ads
+96,Istanbul,2025-11-24,Paid Ads
+97,Izmir,2025-07-05,Paid Ads
+98,Bursa,2025-09-23,Organic
+99,Eskisehir,2025-12-06,Organic
+100,Konya,2025-02-20,Social
+101,Bursa,2025-06-25,Paid Ads
+102,Ankara,2025-05-10,Social
+103,Istanbul,2025-04-23,Organic
+104,Bursa,2025-05-28,Paid Ads
+105,Ankara,2025-06-06,Organic
+106,Izmir,2025-02-25,Organic
+107,Istanbul,2025-07-12,Email
+108,Istanbul,2025-09-23,Organic
+109,Ankara,2025-11-16,Email
+110,Istanbul,2025-03-15,Email
+111,Istanbul,2025-05-13,Paid Ads
+112,Ankara,2025-11-03,Social
+113,Gaziantep,2025-09-07,Organic
+114,Ankara,2025-10-25,Organic
+115,Antalya,2025-10-24,Organic
+116,Istanbul,2025-11-09,Organic
+117,Istanbul,2025-08-24,Organic
+118,Diyarbakir,2025-05-03,Social
+119,Istanbul,2025-10-03,Email
+120,Izmir,2025-12-08,Paid Ads
+121,Istanbul,2025-06-18,Paid Ads
+122,Istanbul,2025-03-07,Social
+123,Istanbul,2025-08-01,Email
+124,Konya,2025-12-19,Social
+125,Samsun,2025-07-10,Email
+126,Istanbul,2025-11-02,Social
+127,Istanbul,2025-03-06,Organic
+128,Antalya,2025-02-28,Organic
+129,Antalya,2025-09-20,Paid Ads
+130,Istanbul,2025-07-22,Social
+131,Izmir,2025-07-03,Email
+132,Eskisehir,2025-04-07,Organic
+133,Izmir,2025-01-23,Email
+134,Gaziantep,2025-09-19,Organic
+135,Konya,2025-11-17,Email
+136,Istanbul,2025-07-21,Social
+137,Samsun,2025-09-22,Email
+138,Ankara,2025-09-14,Email
+139,Antalya,2025-04-23,Email
+140,Bursa,2025-12-12,Paid Ads
+141,Gaziantep,2025-12-21,Email
+142,Eskisehir,2025-11-17,Organic
+143,Samsun,2025-11-06,Organic
+144,Izmir,2025-08-24,Organic
+145,Istanbul,2025-12-13,Email
+146,Istanbul,2025-01-02,Paid Ads
+147,Ankara,2025-08-20,Email
+148,Gaziantep,2025-07-08,Social
+149,Samsun,2025-01-27,Organic
+150,Antalya,2025-02-23,Social
+151,Konya,2025-07-16,Email
+152,Izmir,2025-07-06,Paid Ads
+153,Samsun,2025-11-18,Paid Ads
+154,Izmir,2025-09-01,Organic
+155,Ankara,2025-03-04,Organic
+156,Ankara,2025-12-25,Paid Ads
+157,Antalya,2025-05-23,Social
+158,Izmir,2025-05-04,Social
+159,Ankara,2025-01-09,Paid Ads
+160,Istanbul,2025-10-06,Organic
+161,Ankara,2025-03-03,Organic
+162,Trabzon,2025-09-07,Paid Ads
+163,Antalya,2025-10-19,Paid Ads
+164,Ankara,2025-07-18,Social
+165,Istanbul,2025-09-09,Organic
+166,Istanbul,2025-11-14,Paid Ads
+167,Istanbul,2025-02-09,Paid Ads
+168,Izmir,2025-06-08,Social
+169,Gaziantep,2025-10-12,Organic
+170,Istanbul,2025-05-23,Email
+171,Izmir,2025-12-21,Paid Ads
+172,Trabzon,2025-03-22,Social
+173,Ankara,2025-02-16,Organic
+174,Ankara,2025-07-25,Email
+175,Istanbul,2025-10-01,Organic
+176,Konya,2025-10-06,Paid Ads
+177,Van,2025-07-07,Paid Ads
+178,Ankara,2025-01-23,Organic
+179,Antalya,2025-08-25,Email
+180,Istanbul,2025-12-17,Organic
+181,Ankara,2025-04-24,Email
+182,Istanbul,2025-07-18,Social
+183,Istanbul,2025-04-08,Organic
+184,Izmir,2025-11-02,Organic
+185,Eskisehir,2025-01-04,Organic
+186,Ankara,2025-09-05,Organic
+187,Eskisehir,2025-08-15,Social
+188,Istanbul,2025-11-03,Paid Ads
+189,Istanbul,2025-05-11,Organic
+190,Istanbul,2025-01-12,Organic
+191,Van,2025-05-24,Social
+192,Istanbul,2025-08-06,Organic
+193,Istanbul,2025-01-25,Paid Ads
+194,Ankara,2025-04-04,Organic
+195,Konya,2025-07-07,Social
+196,Ankara,2025-07-18,Paid Ads
+197,Izmir,2025-05-24,Paid Ads
+198,Eskisehir,2025-08-24,Paid Ads
+199,Izmir,2025-12-11,Paid Ads
+200,Samsun,2025-08-10,Paid Ads
+201,Istanbul,2025-03-09,Paid Ads
+202,Bursa,2025-09-10,Email
+203,Istanbul,2025-09-01,Social
+204,Izmir,2025-06-19,Organic
+205,Istanbul,2025-12-05,Organic
+206,Gaziantep,2025-04-02,Paid Ads
+207,Ankara,2025-05-21,Organic
+208,Antalya,2025-03-23,Organic
+209,Diyarbakir,2025-01-11,Organic
+210,Samsun,2025-12-08,Email
+211,Konya,2025-08-23,Paid Ads
+212,Istanbul,2025-12-23,Social
+213,Ankara,2025-10-06,Paid Ads
+214,Diyarbakir,2025-03-25,Organic
+215,Izmir,2025-11-08,Organic
+216,Bursa,2025-09-26,Social
+217,Izmir,2025-10-20,Paid Ads
+218,Samsun,2025-02-19,Paid Ads
+219,Istanbul,2025-05-24,Social
+220,Ankara,2025-11-10,Social
+221,Diyarbakir,2025-06-20,Paid Ads
+222,Ankara,2025-11-25,Organic
+223,Trabzon,2025-11-27,Organic
+224,Ankara,2025-04-11,Organic
+225,Istanbul,2025-05-08,Social
+226,Antalya,2025-12-25,Paid Ads
+227,Ankara,2025-12-11,Organic
+228,Antalya,2025-08-13,Social
+229,Antalya,2025-04-05,Organic
+230,Bursa,2025-08-28,Paid Ads
+231,Gaziantep,2025-01-21,Organic
+232,Eskisehir,2025-07-14,Paid Ads
+233,Bursa,2025-10-22,Social
+234,Konya,2025-01-16,Paid Ads
+235,Samsun,2025-11-27,Paid Ads
+236,Konya,2025-03-13,Organic
+237,Antalya,2025-10-02,Email
+238,Ankara,2025-10-24,Social
+239,Ankara,2025-04-02,Social
+240,Trabzon,2025-09-25,Social
+241,Istanbul,2025-09-01,Paid Ads
+242,Izmir,2025-12-12,Paid Ads
+243,Istanbul,2025-12-21,Social
+244,Samsun,2025-12-01,Social
+245,Istanbul,2025-07-01,Social
+246,Istanbul,2025-02-20,Social
+247,Antalya,2025-05-23,Paid Ads
+248,Konya,2025-10-18,Organic
+249,Istanbul,2025-04-08,Organic
+250,Samsun,2025-02-23,Organic
+251,Bursa,2025-04-14,Paid Ads
+252,Izmir,2025-06-26,Paid Ads
+253,Antalya,2025-09-13,Organic
+254,Istanbul,2025-07-02,Paid Ads
+255,Gaziantep,2025-10-25,Social
+256,Izmir,2025-12-15,Social
+257,Gaziantep,2025-09-10,Paid Ads
+258,Trabzon,2025-05-15,Organic
+259,Samsun,2025-07-06,Organic
+260,Istanbul,2025-12-19,Email
+261,Ankara,2025-09-07,Organic
+262,Ankara,2025-11-12,Organic
+263,Ankara,2025-03-24,Paid Ads
+264,Istanbul,2025-09-03,Organic
+265,Izmir,2025-03-05,Paid Ads
+266,Izmir,2025-12-28,Social
+267,Izmir,2025-08-11,Email
+268,Trabzon,2025-01-16,Organic
+269,Izmir,2025-11-25,Organic
+270,Antalya,2025-10-04,Organic
+271,Antalya,2025-01-11,Paid Ads
+272,Antalya,2025-12-16,Organic
+273,Bursa,2025-02-27,Email
+274,Istanbul,2025-09-11,Organic
+275,Izmir,2025-01-14,Email
+276,Izmir,2025-08-16,Paid Ads
+277,Ankara,2025-01-21,Social
+278,Diyarbakir,2025-03-18,Organic
+279,Istanbul,2025-05-17,Social
+280,Van,2025-12-23,Paid Ads
+281,Trabzon,2025-01-23,Organic
+282,Ankara,2025-09-17,Paid Ads
+283,Istanbul,2025-11-22,Organic
+284,Ankara,2025-11-08,Social
+285,Ankara,2025-05-14,Email
+286,Diyarbakir,2025-12-23,Social
+287,Istanbul,2025-03-15,Email
+288,Ankara,2025-02-06,Email
+289,Istanbul,2025-10-25,Organic
+290,Eskisehir,2025-04-01,Email
+291,Gaziantep,2025-10-04,Paid Ads
+292,Samsun,2025-10-14,Organic
+293,Antalya,2025-10-24,Social
+294,Antalya,2025-11-02,Organic
+295,Eskisehir,2025-11-20,Organic
+296,Istanbul,2025-02-16,Paid Ads
+297,Van,2025-09-07,Paid Ads
+298,Ankara,2025-12-27,Paid Ads
+299,Ankara,2025-10-26,Social
+300,Istanbul,2025-03-25,Email
+301,Izmir,2025-11-16,Paid Ads
+302,Antalya,2025-10-16,Paid Ads
+303,Istanbul,2025-07-22,Paid Ads
+304,Antalya,2025-10-26,Email
+305,Istanbul,2025-07-16,Organic
+306,Diyarbakir,2025-01-21,Organic
+307,Gaziantep,2025-09-21,Organic
+308,Istanbul,2025-11-16,Paid Ads
+309,Van,2025-02-08,Organic
+310,Istanbul,2025-12-26,Organic
+311,Gaziantep,2025-03-10,Email
+312,Ankara,2025-11-26,Paid Ads
+313,Gaziantep,2025-09-23,Organic
+314,Antalya,2025-04-18,Paid Ads
+315,Ankara,2025-09-01,Organic
+316,Ankara,2025-09-04,Organic
+317,Van,2025-03-13,Paid Ads
+318,Istanbul,2025-11-04,Social
+319,Samsun,2025-07-26,Organic
+320,Bursa,2025-12-26,Paid Ads
+321,Bursa,2025-06-13,Paid Ads
+322,Istanbul,2025-03-20,Paid Ads
+323,Istanbul,2025-08-13,Organic
+324,Ankara,2025-01-13,Organic
+325,Istanbul,2025-11-10,Paid Ads
+326,Istanbul,2025-01-16,Email
+327,Istanbul,2025-05-07,Social
+328,Bursa,2025-11-26,Paid Ads
+329,Van,2025-12-12,Organic
+330,Izmir,2025-08-03,Social
+331,Istanbul,2025-07-14,Paid Ads
+332,Izmir,2025-11-27,Email
+333,Gaziantep,2025-11-02,Social
+334,Ankara,2025-11-15,Email
+335,Konya,2025-04-26,Paid Ads
+336,Istanbul,2025-03-16,Organic
+337,Antalya,2025-04-16,Paid Ads
+338,Ankara,2025-07-12,Organic
+339,Bursa,2025-04-02,Email
+340,Istanbul,2025-10-21,Paid Ads
+341,Istanbul,2025-07-08,Email
+342,Izmir,2025-11-08,Paid Ads
+343,Samsun,2025-10-09,Social
+344,Antalya,2025-07-18,Organic
+345,Trabzon,2025-05-01,Paid Ads
+346,Ankara,2025-09-10,Email
+347,Gaziantep,2025-04-10,Paid Ads
+348,Istanbul,2025-06-23,Organic
+349,Istanbul,2025-08-16,Organic
+350,Ankara,2025-09-14,Organic
+351,Antalya,2025-10-07,Organic
+352,Ankara,2025-02-05,Organic
+353,Istanbul,2025-02-10,Organic
+354,Istanbul,2025-06-01,Organic
+355,Trabzon,2025-08-09,Email
+356,Antalya,2025-01-25,Organic
+357,Trabzon,2025-12-21,Paid Ads
+358,Istanbul,2025-02-07,Email
+359,Ankara,2025-08-06,Paid Ads
+360,Ankara,2025-12-24,Organic
+361,Bursa,2025-10-21,Social
+362,Ankara,2025-12-17,Paid Ads
+363,Istanbul,2025-10-23,Organic
+364,Istanbul,2025-07-27,Email
+365,Izmir,2025-09-11,Social
+366,Van,2025-09-22,Paid Ads
+367,Eskisehir,2025-07-22,Email
+368,Gaziantep,2025-07-04,Organic
+369,Trabzon,2025-04-16,Organic
+370,Ankara,2025-04-10,Organic
+371,Diyarbakir,2025-05-12,Email
+372,Istanbul,2025-11-23,Social
+373,Istanbul,2025-11-23,Social
+374,Ankara,2025-10-10,Organic
+375,Istanbul,2025-03-21,Social
+376,Izmir,2025-02-17,Email
+377,Istanbul,2025-11-13,Paid Ads
+378,Izmir,2025-08-19,Organic
+379,Izmir,2025-10-13,Paid Ads
+380,Antalya,2025-07-11,Organic
+381,Samsun,2025-08-23,Paid Ads
+382,Izmir,2025-09-06,Organic
+383,Konya,2025-09-17,Paid Ads
+384,Konya,2025-11-16,Organic
+385,Trabzon,2025-11-13,Paid Ads
+386,Bursa,2025-11-22,Paid Ads
+387,Eskisehir,2025-07-22,Organic
+388,Istanbul,2025-11-17,Organic
+389,Izmir,2025-01-21,Organic
+390,Istanbul,2025-05-14,Paid Ads
+391,Eskisehir,2025-12-04,Email
+392,Ankara,2025-02-01,Organic
+393,Istanbul,2025-09-07,Social
+394,Eskisehir,2025-04-02,Social
+395,Ankara,2025-01-18,Organic
+396,Izmir,2025-06-21,Organic
+397,Trabzon,2025-10-13,Social
+398,Eskisehir,2025-03-28,Organic
+399,Konya,2025-09-11,Paid Ads
+400,Van,2025-08-24,Organic
+401,Istanbul,2025-10-26,Paid Ads
+402,Bursa,2025-01-26,Social
+403,Istanbul,2025-01-02,Paid Ads
+404,Istanbul,2025-03-14,Organic
+405,Eskisehir,2025-10-03,Social
+406,Istanbul,2025-05-14,Paid Ads
+407,Izmir,2025-02-23,Organic
+408,Van,2025-03-23,Organic
+409,Ankara,2025-07-05,Social
+410,Istanbul,2025-10-15,Social
+411,Izmir,2025-11-15,Social
+412,Diyarbakir,2025-04-18,Organic
+413,Antalya,2025-06-24,Organic
+414,Eskisehir,2025-11-11,Organic
+415,Ankara,2025-03-25,Organic
+416,Gaziantep,2025-11-07,Email
+417,Istanbul,2025-08-20,Organic
+418,Eskisehir,2025-08-26,Paid Ads
+419,Bursa,2025-09-27,Organic
+420,Istanbul,2025-03-23,Social
+421,Diyarbakir,2025-09-15,Social
+422,Ankara,2025-09-22,Organic
+423,Eskisehir,2025-07-19,Organic
+424,Diyarbakir,2025-10-11,Paid Ads
+425,Eskisehir,2025-10-13,Paid Ads
+426,Istanbul,2025-08-03,Paid Ads
+427,Van,2025-04-02,Paid Ads
+428,Istanbul,2025-12-01,Paid Ads
+429,Izmir,2025-06-07,Paid Ads
+430,Gaziantep,2025-10-27,Paid Ads
+431,Bursa,2025-11-21,Organic
+432,Bursa,2025-02-09,Paid Ads
+433,Diyarbakir,2025-12-17,Paid Ads
+434,Bursa,2025-10-15,Paid Ads
+435,Istanbul,2025-12-12,Organic
+436,Ankara,2025-12-19,Social
+437,Istanbul,2025-07-03,Social
+438,Istanbul,2025-12-13,Organic
+439,Istanbul,2025-02-14,Email
+440,Istanbul,2025-10-13,Email
+441,Bursa,2025-11-23,Social
+442,Gaziantep,2025-10-01,Organic
+443,Ankara,2025-05-18,Paid Ads
+444,Diyarbakir,2025-09-04,Email
+445,Ankara,2025-03-13,Social
+446,Istanbul,2025-08-23,Organic
+447,Istanbul,2025-03-16,Paid Ads
+448,Istanbul,2025-11-26,Paid Ads
+449,Izmir,2025-12-23,Organic
+450,Ankara,2025-08-05,Organic
+451,Istanbul,2025-11-10,Social
+452,Eskisehir,2025-07-06,Organic
+453,Istanbul,2025-08-16,Social
+454,Samsun,2025-11-17,Paid Ads
+455,Antalya,2025-02-27,Email
+456,Istanbul,2025-10-08,Organic
+457,Ankara,2025-12-02,Email
+458,Istanbul,2025-06-10,Organic
+459,Ankara,2025-08-03,Paid Ads
+460,Izmir,2025-02-14,Organic
+461,Istanbul,2025-01-26,Email
+462,Ankara,2025-06-02,Organic
+463,Istanbul,2025-01-15,Organic
+464,Istanbul,2025-10-20,Email
+465,Antalya,2025-02-16,Paid Ads
+466,Diyarbakir,2025-12-25,Social
+467,Istanbul,2025-10-08,Paid Ads
+468,Van,2025-02-19,Paid Ads
+469,Ankara,2025-02-20,Paid Ads
+470,Bursa,2025-10-02,Organic
+471,Istanbul,2025-05-01,Paid Ads
+472,Istanbul,2025-05-23,Organic
+473,Izmir,2025-09-24,Email
+474,Samsun,2025-05-04,Organic
+475,Izmir,2025-06-05,Paid Ads
+476,Gaziantep,2025-10-14,Paid Ads
+477,Ankara,2025-06-15,Paid Ads
+478,Ankara,2025-05-16,Organic
+479,Bursa,2025-11-18,Organic
+480,Gaziantep,2025-11-16,Organic
+481,Konya,2025-02-23,Social
+482,Istanbul,2025-07-20,Paid Ads
+483,Ankara,2025-11-27,Organic
+484,Istanbul,2025-06-15,Organic
+485,Istanbul,2025-12-04,Organic
+486,Ankara,2025-11-09,Paid Ads
+487,Izmir,2025-12-19,Organic
+488,Eskisehir,2025-10-15,Social
+489,Izmir,2025-03-20,Organic
+490,Izmir,2025-04-15,Email
+491,Antalya,2025-09-12,Paid Ads
+492,Ankara,2025-07-01,Organic
+493,Ankara,2025-03-10,Organic
+494,Ankara,2025-07-10,Paid Ads
+495,Istanbul,2025-07-22,Paid Ads
+496,Ankara,2025-12-17,Email
+497,Izmir,2025-10-26,Email
+498,Diyarbakir,2025-01-27,Social
+499,Izmir,2025-02-03,Paid Ads
+500,Istanbul,2025-09-28,Social
+501,Izmir,2025-10-12,Organic
+502,Bursa,2025-07-11,Paid Ads
+503,Ankara,2025-04-12,Social
+504,Eskisehir,2025-12-17,Email
+505,Istanbul,2025-05-03,Email
+506,Ankara,2025-07-13,Organic
+507,Trabzon,2025-05-27,Paid Ads
+508,Ankara,2025-06-27,Organic
+509,Istanbul,2025-08-13,Organic
+510,Trabzon,2025-11-12,Social
+511,Izmir,2025-04-04,Organic
+512,Ankara,2025-10-08,Organic
+513,Van,2025-01-11,Paid Ads
+514,Izmir,2025-10-02,Social
+515,Istanbul,2025-11-19,Social
+516,Istanbul,2025-10-09,Social
+517,Istanbul,2025-03-12,Paid Ads
+518,Trabzon,2025-09-22,Paid Ads
+519,Istanbul,2025-06-14,Paid Ads
+520,Istanbul,2025-10-26,Paid Ads
+521,Istanbul,2025-04-20,Paid Ads
+522,Konya,2025-12-23,Paid Ads
+523,Diyarbakir,2025-08-26,Social
+524,Antalya,2025-10-11,Social
+525,Konya,2025-10-19,Organic
+526,Istanbul,2025-08-28,Paid Ads
+527,Istanbul,2025-12-17,Paid Ads
+528,Eskisehir,2025-04-23,Email
+529,Bursa,2025-07-10,Organic
+530,Istanbul,2025-05-07,Social
+531,Izmir,2025-11-20,Social
+532,Ankara,2025-10-08,Email
+533,Konya,2025-11-19,Social
+534,Istanbul,2025-11-23,Social
+535,Ankara,2025-04-11,Paid Ads
+536,Ankara,2025-08-01,Organic
+537,Bursa,2025-03-10,Organic
+538,Ankara,2025-04-07,Paid Ads
+539,Istanbul,2025-09-04,Social
+540,Samsun,2025-04-03,Paid Ads
+541,Istanbul,2025-03-26,Paid Ads
+542,Istanbul,2025-07-14,Email
+543,Istanbul,2025-02-05,Organic
+544,Izmir,2025-11-25,Paid Ads
+545,Izmir,2025-09-27,Organic
+546,Istanbul,2025-10-12,Organic
+547,Diyarbakir,2025-12-23,Organic
+548,Gaziantep,2025-03-10,Paid Ads
+549,Samsun,2025-06-06,Email
+550,Bursa,2025-08-25,Paid Ads
+551,Antalya,2025-01-04,Paid Ads
+552,Van,2025-09-19,Paid Ads
+553,Antalya,2025-06-13,Email
+554,Antalya,2025-10-25,Social
+555,Istanbul,2025-07-11,Email
+556,Istanbul,2025-10-22,Organic
+557,Van,2025-05-01,Organic
+558,Izmir,2025-10-11,Organic
+559,Izmir,2025-09-03,Paid Ads
+560,Istanbul,2025-10-12,Paid Ads
+561,Istanbul,2025-04-21,Paid Ads
+562,Izmir,2025-02-06,Paid Ads
+563,Gaziantep,2025-03-27,Organic
+564,Izmir,2025-12-11,Paid Ads
+565,Diyarbakir,2025-10-19,Social
+566,Istanbul,2025-06-13,Paid Ads
+567,Izmir,2025-12-10,Organic
+568,Istanbul,2025-11-23,Email
+569,Istanbul,2025-11-27,Organic
+570,Konya,2025-05-21,Email
+571,Istanbul,2025-02-23,Paid Ads
+572,Istanbul,2025-07-21,Organic
+573,Ankara,2025-11-25,Paid Ads
+574,Antalya,2025-05-21,Paid Ads
+575,Istanbul,2025-03-15,Social
+576,Izmir,2025-05-11,Paid Ads
+577,Ankara,2025-03-05,Email
+578,Antalya,2025-12-22,Email
+579,Eskisehir,2025-11-03,Paid Ads
+580,Istanbul,2025-03-09,Email
+581,Konya,2025-06-16,Organic
+582,Gaziantep,2025-11-26,Paid Ads
+583,Istanbul,2025-05-17,Organic
+584,Istanbul,2025-08-07,Email
+585,Konya,2025-09-22,Paid Ads
+586,Konya,2025-03-23,Organic
+587,Eskisehir,2025-11-13,Email
+588,Istanbul,2025-09-16,Organic
+589,Izmir,2025-09-11,Email
+590,Bursa,2025-04-19,Social
+591,Konya,2025-06-07,Organic
+592,Istanbul,2025-03-20,Social
+593,Bursa,2025-01-02,Organic
+594,Antalya,2025-03-27,Paid Ads
+595,Antalya,2025-08-02,Social
+596,Istanbul,2025-09-20,Organic
+597,Van,2025-01-21,Paid Ads
+598,Ankara,2025-12-20,Organic
+599,Eskisehir,2025-06-19,Organic
+600,Konya,2025-01-22,Organic
+601,Istanbul,2025-07-26,Organic
+602,Bursa,2025-08-12,Paid Ads
+603,Van,2025-11-04,Paid Ads
+604,Istanbul,2025-07-27,Paid Ads
+605,Istanbul,2025-05-07,Organic
+606,Trabzon,2025-09-12,Paid Ads
+607,Antalya,2025-12-21,Paid Ads
+608,Istanbul,2025-04-13,Paid Ads
+609,Izmir,2025-07-26,Paid Ads
+610,Istanbul,2025-03-08,Email
+611,Istanbul,2025-06-15,Social
+612,Izmir,2025-11-25,Social
+613,Diyarbakir,2025-08-22,Paid Ads
+614,Ankara,2025-03-10,Organic
+615,Gaziantep,2025-06-13,Social
+616,Istanbul,2025-04-16,Social
+617,Antalya,2025-11-19,Organic
+618,Trabzon,2025-12-13,Organic
+619,Istanbul,2025-11-08,Paid Ads
+620,Gaziantep,2025-10-01,Email
+621,Istanbul,2025-02-27,Organic
+622,Istanbul,2025-04-19,Organic
+623,Istanbul,2025-04-06,Email
+624,Istanbul,2025-11-17,Organic
+625,Istanbul,2025-03-04,Organic
+626,Trabzon,2025-11-13,Paid Ads
+627,Ankara,2025-01-14,Organic
+628,Izmir,2025-01-05,Paid Ads
+629,Ankara,2025-12-06,Organic
+630,Bursa,2025-01-17,Organic
+631,Istanbul,2025-11-14,Social
+632,Istanbul,2025-12-22,Paid Ads
+633,Bursa,2025-03-22,Organic
+634,Antalya,2025-12-02,Social
+635,Eskisehir,2025-06-28,Paid Ads
+636,Istanbul,2025-11-21,Email
+637,Antalya,2025-03-10,Organic
+638,Diyarbakir,2025-09-05,Organic
+639,Antalya,2025-05-17,Social
+640,Antalya,2025-06-12,Paid Ads
+641,Antalya,2025-12-25,Social
+642,Konya,2025-11-21,Paid Ads
+643,Izmir,2025-11-19,Paid Ads
+644,Trabzon,2025-11-15,Paid Ads
+645,Trabzon,2025-11-22,Social
+646,Ankara,2025-04-16,Organic
+647,Trabzon,2025-02-22,Paid Ads
+648,Antalya,2025-12-25,Organic
+649,Antalya,2025-07-25,Email
+650,Trabzon,2025-11-26,Organic
+651,Istanbul,2025-05-01,Organic
+652,Istanbul,2025-11-08,Organic
+653,Konya,2025-12-14,Organic
+654,Eskisehir,2025-04-11,Email
+655,Antalya,2025-06-22,Organic
+656,Istanbul,2025-02-06,Organic
+657,Diyarbakir,2025-06-07,Organic
+658,Samsun,2025-07-15,Organic
+659,Izmir,2025-03-04,Organic
+660,Ankara,2025-09-15,Email
+661,Eskisehir,2025-12-26,Paid Ads
+662,Istanbul,2025-12-19,Social
+663,Bursa,2025-10-24,Organic
+664,Istanbul,2025-04-05,Social
+665,Gaziantep,2025-11-06,Email
+666,Istanbul,2025-11-05,Paid Ads
+667,Izmir,2025-08-03,Organic
+668,Istanbul,2025-07-14,Organic
+669,Diyarbakir,2025-02-06,Social
+670,Gaziantep,2025-03-25,Organic
+671,Istanbul,2025-03-19,Organic
+672,Trabzon,2025-11-17,Email
+673,Istanbul,2025-04-28,Paid Ads
+674,Konya,2025-09-22,Paid Ads
+675,Eskisehir,2025-01-03,Email
+676,Konya,2025-08-17,Paid Ads
+677,Istanbul,2025-02-04,Organic
+678,Diyarbakir,2025-12-25,Social
+679,Samsun,2025-02-25,Organic
+680,Istanbul,2025-05-01,Paid Ads
+681,Konya,2025-08-24,Organic
+682,Diyarbakir,2025-12-28,Email
+683,Diyarbakir,2025-08-05,Paid Ads
+684,Istanbul,2025-12-24,Email
+685,Samsun,2025-09-06,Email
+686,Antalya,2025-10-22,Social
+687,Izmir,2025-11-06,Social
+688,Ankara,2025-09-06,Email
+689,Diyarbakir,2025-11-12,Email
+690,Bursa,2025-04-18,Email
+691,Istanbul,2025-05-17,Social
+692,Diyarbakir,2025-07-25,Organic
+693,Gaziantep,2025-09-13,Paid Ads
+694,Izmir,2025-07-13,Paid Ads
+695,Eskisehir,2025-05-23,Email
+696,Ankara,2025-08-12,Paid Ads
+697,Konya,2025-08-06,Paid Ads
+698,Istanbul,2025-10-16,Paid Ads
+699,Istanbul,2025-09-24,Social
+700,Izmir,2025-01-19,Paid Ads
+701,Bursa,2025-05-15,Paid Ads
+702,Bursa,2025-07-28,Paid Ads
+703,Trabzon,2025-10-01,Paid Ads
+704,Ankara,2025-04-17,Paid Ads
+705,Trabzon,2025-04-07,Social
+706,Samsun,2025-12-11,Paid Ads
+707,Izmir,2025-06-21,Paid Ads
+708,Istanbul,2025-05-15,Organic
+709,Istanbul,2025-11-02,Paid Ads
+710,Samsun,2025-08-18,Social
+711,Diyarbakir,2025-03-05,Organic
+712,Antalya,2025-05-19,Paid Ads
+713,Samsun,2025-06-11,Social
+714,Samsun,2025-05-11,Organic
+715,Antalya,2025-05-17,Organic
+716,Konya,2025-06-24,Organic
+717,Antalya,2025-02-05,Social
+718,Gaziantep,2025-06-16,Paid Ads
+719,Antalya,2025-03-12,Organic
+720,Antalya,2025-12-18,Paid Ads
+721,Trabzon,2025-12-21,Social
+722,Antalya,2025-08-08,Organic
+723,Istanbul,2025-04-01,Paid Ads
+724,Bursa,2025-12-24,Social
+725,Istanbul,2025-06-26,Social
+726,Ankara,2025-03-21,Paid Ads
+727,Antalya,2025-11-19,Social
+728,Konya,2025-05-01,Paid Ads
+729,Eskisehir,2025-12-07,Social
+730,Diyarbakir,2025-05-13,Email
+731,Ankara,2025-05-05,Paid Ads
+732,Istanbul,2025-01-20,Paid Ads
+733,Istanbul,2025-11-02,Social
+734,Istanbul,2025-01-04,Organic
+735,Samsun,2025-05-17,Social
+736,Istanbul,2025-05-22,Paid Ads
+737,Bursa,2025-12-26,Paid Ads
+738,Istanbul,2025-12-16,Paid Ads
+739,Izmir,2025-10-09,Organic
+740,Istanbul,2025-11-22,Paid Ads
+741,Izmir,2025-02-15,Organic
+742,Izmir,2025-08-15,Email
+743,Izmir,2025-04-06,Social
+744,Trabzon,2025-10-13,Social
+745,Istanbul,2025-05-03,Paid Ads
+746,Samsun,2025-04-13,Social
+747,Bursa,2025-01-27,Organic
+748,Istanbul,2025-10-01,Organic
+749,Gaziantep,2025-11-05,Social
+750,Diyarbakir,2025-04-11,Organic
+751,Ankara,2025-02-11,Email
+752,Istanbul,2025-07-14,Organic
+753,Antalya,2025-12-28,Organic
+754,Trabzon,2025-05-08,Organic
+755,Diyarbakir,2025-06-23,Organic
+756,Van,2025-11-21,Organic
+757,Bursa,2025-07-26,Email
+758,Ankara,2025-10-24,Paid Ads
+759,Izmir,2025-05-25,Email
+760,Izmir,2025-10-03,Email
+761,Ankara,2025-02-16,Organic
+762,Ankara,2025-12-11,Email
+763,Ankara,2025-04-22,Organic
+764,Gaziantep,2025-11-19,Social
+765,Istanbul,2025-11-28,Organic
+766,Istanbul,2025-12-22,Email
+767,Istanbul,2025-03-06,Organic
+768,Istanbul,2025-02-02,Paid Ads
+769,Eskisehir,2025-09-15,Email
+770,Istanbul,2025-11-18,Organic
+771,Istanbul,2025-08-19,Organic
+772,Ankara,2025-11-19,Paid Ads
+773,Izmir,2025-06-10,Email
+774,Bursa,2025-11-09,Paid Ads
+775,Izmir,2025-08-24,Organic
+776,Izmir,2025-03-18,Organic
+777,Ankara,2025-12-09,Organic
+778,Ankara,2025-04-16,Organic
+779,Antalya,2025-10-03,Paid Ads
+780,Eskisehir,2025-08-06,Paid Ads
+781,Antalya,2025-11-04,Paid Ads
+782,Ankara,2025-04-03,Email
+783,Ankara,2025-11-04,Organic
+784,Bursa,2025-11-01,Email
+785,Izmir,2025-10-03,Social
+786,Ankara,2025-11-02,Email
+787,Istanbul,2025-12-11,Paid Ads
+788,Diyarbakir,2025-10-02,Organic
+789,Istanbul,2025-04-05,Paid Ads
+790,Konya,2025-05-13,Social
+791,Antalya,2025-06-25,Paid Ads
+792,Istanbul,2025-07-06,Email
+793,Izmir,2025-11-08,Paid Ads
+794,Istanbul,2025-12-19,Email
+795,Izmir,2025-02-04,Email
+796,Antalya,2025-02-22,Email
+797,Gaziantep,2025-10-02,Paid Ads
+798,Istanbul,2025-11-13,Organic
+799,Istanbul,2025-10-28,Organic
+800,Bursa,2025-12-23,Social
+801,Ankara,2025-08-08,Organic
+802,Diyarbakir,2025-06-12,Paid Ads
+803,Gaziantep,2025-02-11,Organic
+804,Samsun,2025-01-18,Social
+805,Ankara,2025-11-22,Organic
+806,Diyarbakir,2025-10-23,Email
+807,Istanbul,2025-04-02,Organic
+808,Trabzon,2025-04-13,Social
+809,Istanbul,2025-03-21,Organic
+810,Istanbul,2025-12-18,Paid Ads
+811,Bursa,2025-02-28,Organic
+812,Diyarbakir,2025-12-13,Organic
+813,Istanbul,2025-07-04,Social
+814,Trabzon,2025-09-12,Email
+815,Ankara,2025-09-15,Email
+816,Izmir,2025-06-16,Organic
+817,Izmir,2025-05-27,Paid Ads
+818,Trabzon,2025-03-04,Paid Ads
+819,Konya,2025-06-18,Organic
+820,Istanbul,2025-06-12,Social
+821,Izmir,2025-12-15,Paid Ads
+822,Konya,2025-05-06,Organic
+823,Izmir,2025-09-18,Social
+824,Trabzon,2025-11-09,Paid Ads
+825,Ankara,2025-10-14,Organic
+826,Ankara,2025-10-13,Paid Ads
+827,Istanbul,2025-12-24,Paid Ads
+828,Izmir,2025-11-13,Social
+829,Ankara,2025-07-07,Organic
+830,Istanbul,2025-12-20,Organic
+831,Gaziantep,2025-06-27,Social
+832,Istanbul,2025-03-08,Email
+833,Konya,2025-11-03,Email
+834,Gaziantep,2025-11-15,Organic
+835,Izmir,2025-03-22,Email
+836,Istanbul,2025-12-20,Organic
+837,Izmir,2025-01-28,Organic
+838,Antalya,2025-03-10,Social
+839,Eskisehir,2025-05-08,Paid Ads
+840,Istanbul,2025-08-06,Social
+841,Antalya,2025-09-10,Organic
+842,Istanbul,2025-08-28,Organic
+843,Gaziantep,2025-08-28,Social
+844,Istanbul,2025-10-25,Email
+845,Bursa,2025-04-23,Email
+846,Istanbul,2025-12-18,Email
+847,Istanbul,2025-11-07,Organic
+848,Istanbul,2025-04-18,Paid Ads
+849,Konya,2025-12-15,Organic
+850,Konya,2025-03-21,Social
+851,Izmir,2025-09-06,Organic
+852,Istanbul,2025-05-17,Paid Ads
+853,Antalya,2025-08-22,Paid Ads
+854,Gaziantep,2025-03-27,Organic
+855,Istanbul,2025-01-16,Social
+856,Istanbul,2025-11-07,Paid Ads
+857,Van,2025-09-07,Organic
+858,Gaziantep,2025-12-06,Paid Ads
+859,Istanbul,2025-02-01,Email
+860,Istanbul,2025-06-08,Social
+861,Diyarbakir,2025-01-08,Paid Ads
+862,Izmir,2025-04-12,Paid Ads
+863,Bursa,2025-01-02,Paid Ads
+864,Eskisehir,2025-07-06,Paid Ads
+865,Diyarbakir,2025-05-08,Organic
+866,Konya,2025-09-13,Email
+867,Istanbul,2025-04-17,Organic
+868,Gaziantep,2025-02-01,Paid Ads
+869,Istanbul,2025-10-20,Social
+870,Bursa,2025-11-03,Organic
+871,Antalya,2025-08-04,Organic
+872,Bursa,2025-04-08,Paid Ads
+873,Diyarbakir,2025-04-16,Social
+874,Ankara,2025-06-01,Social
+875,Antalya,2025-05-07,Email
+876,Istanbul,2025-06-14,Organic
+877,Eskisehir,2025-08-02,Paid Ads
+878,Izmir,2025-11-25,Social
+879,Trabzon,2025-01-10,Social
+880,Diyarbakir,2025-01-16,Paid Ads
+881,Istanbul,2025-12-27,Paid Ads
+882,Istanbul,2025-08-04,Organic
+883,Istanbul,2025-06-18,Paid Ads
+884,Bursa,2025-10-02,Organic
+885,Trabzon,2025-11-16,Social
+886,Konya,2025-11-05,Organic
+887,Istanbul,2025-10-15,Organic
+888,Van,2025-01-22,Social
+889,Diyarbakir,2025-06-13,Organic
+890,Konya,2025-12-25,Social
+891,Samsun,2025-04-06,Paid Ads
+892,Bursa,2025-12-04,Social
+893,Bursa,2025-11-24,Paid Ads
+894,Ankara,2025-06-02,Email
+895,Izmir,2025-02-20,Organic
+896,Samsun,2025-11-05,Organic
+897,Istanbul,2025-01-10,Email
+898,Bursa,2025-12-12,Social
+899,Konya,2025-03-05,Social
+900,Konya,2025-12-24,Social
+901,Antalya,2025-10-06,Social
+902,Ankara,2025-12-05,Paid Ads
+903,Ankara,2025-10-12,Organic
+904,Istanbul,2025-10-20,Organic
+905,Bursa,2025-11-17,Organic
+906,Ankara,2025-04-05,Social
+907,Bursa,2025-12-03,Paid Ads
+908,Ankara,2025-02-21,Social
+909,Bursa,2025-05-12,Social
+910,Konya,2025-12-04,Paid Ads
+911,Bursa,2025-04-16,Email
+912,Trabzon,2025-12-02,Paid Ads
+913,Istanbul,2025-09-25,Email
+914,Van,2025-05-08,Social
+915,Istanbul,2025-12-28,Social
+916,Trabzon,2025-02-16,Email
+917,Istanbul,2025-06-19,Organic
+918,Izmir,2025-11-25,Paid Ads
+919,Antalya,2025-06-06,Social
+920,Izmir,2025-01-22,Paid Ads
+921,Ankara,2025-06-03,Organic
+922,Istanbul,2025-11-06,Paid Ads
+923,Izmir,2025-07-25,Email
+924,Istanbul,2025-03-27,Organic
+925,Eskisehir,2025-06-11,Organic
+926,Istanbul,2025-10-15,Social
+927,Istanbul,2025-07-18,Social
+928,Istanbul,2025-05-23,Organic
+929,Konya,2025-11-02,Organic
+930,Istanbul,2025-05-12,Paid Ads
+931,Istanbul,2025-10-04,Paid Ads
+932,Ankara,2025-12-05,Paid Ads
+933,Istanbul,2025-11-12,Social
+934,Izmir,2025-09-09,Paid Ads
+935,Antalya,2025-02-06,Paid Ads
+936,Samsun,2025-02-28,Paid Ads
+937,Samsun,2025-06-26,Organic
+938,Bursa,2025-06-26,Organic
+939,Gaziantep,2025-02-06,Paid Ads
+940,Gaziantep,2025-01-19,Social
+941,Istanbul,2025-11-03,Organic
+942,Istanbul,2025-10-14,Organic
+943,Istanbul,2025-10-13,Email
+944,Konya,2025-10-26,Paid Ads
+945,Izmir,2025-11-16,Email
+946,Istanbul,2025-01-23,Paid Ads
+947,Bursa,2025-10-09,Organic
+948,Izmir,2025-09-28,Paid Ads
+949,Trabzon,2025-05-23,Paid Ads
+950,Izmir,2025-06-21,Organic
+951,Bursa,2025-02-01,Organic
+952,Istanbul,2025-06-23,Email
+953,Eskisehir,2025-11-16,Social
+954,Ankara,2025-03-26,Email
+955,Istanbul,2025-11-23,Social
+956,Antalya,2025-09-19,Organic
+957,Istanbul,2025-09-05,Organic
+958,Ankara,2025-11-10,Organic
+959,Antalya,2025-11-13,Social
+960,Istanbul,2025-06-21,Social
+961,Istanbul,2025-10-01,Paid Ads
+962,Izmir,2025-11-19,Organic
+963,Bursa,2025-08-10,Paid Ads
+964,Samsun,2025-12-22,Email
+965,Ankara,2025-04-17,Organic
+966,Istanbul,2025-06-01,Email
+967,Antalya,2025-11-24,Email
+968,Eskisehir,2025-12-11,Organic
+969,Gaziantep,2025-12-19,Paid Ads
+970,Ankara,2025-08-19,Organic
+971,Istanbul,2025-04-03,Organic
+972,Istanbul,2025-11-28,Social
+973,Bursa,2025-09-23,Social
+974,Ankara,2025-05-24,Organic
+975,Istanbul,2025-07-02,Paid Ads
+976,Istanbul,2025-08-22,Organic
+977,Antalya,2025-12-24,Organic
+978,Konya,2025-06-07,Organic
+979,Izmir,2025-12-18,Paid Ads
+980,Diyarbakir,2025-03-28,Organic
+981,Samsun,2025-05-20,Organic
+982,Bursa,2025-08-14,Social
+983,Istanbul,2025-10-21,Organic
+984,Istanbul,2025-03-26,Organic
+985,Ankara,2025-03-06,Email
+986,Istanbul,2025-07-21,Organic
+987,Istanbul,2025-10-03,Organic
+988,Konya,2025-12-21,Social
+989,Istanbul,2025-07-18,Social
+990,Antalya,2025-07-26,Paid Ads
+991,Izmir,2025-09-06,Paid Ads
+992,Istanbul,2025-01-20,Email
+993,Izmir,2025-12-13,Email
+994,Trabzon,2025-01-16,Organic
+995,Istanbul,2025-04-19,Paid Ads
+996,Istanbul,2025-10-19,Organic
+997,Samsun,2025-03-07,Email
+998,Istanbul,2025-04-17,Email
+999,Ankara,2025-10-19,Organic
+1000,Diyarbakir,2025-03-26,Paid Ads
+1001,Izmir,2025-05-22,Email
+1002,Diyarbakir,2025-01-03,Organic
+1003,Istanbul,2025-11-07,Social
+1004,Gaziantep,2025-12-05,Organic
+1005,Istanbul,2025-09-28,Paid Ads
+1006,Izmir,2025-12-01,Email
+1007,Antalya,2025-01-08,Social
+1008,Ankara,2025-11-23,Paid Ads
+1009,Ankara,2025-04-15,Paid Ads
+1010,Antalya,2025-06-26,Social
+1011,Diyarbakir,2025-12-08,Email
+1012,Van,2025-10-26,Organic
+1013,Izmir,2025-09-03,Organic
+1014,Eskisehir,2025-09-21,Social
+1015,Trabzon,2025-01-04,Email
+1016,Diyarbakir,2025-09-15,Social
+1017,Konya,2025-12-26,Email
+1018,Ankara,2025-09-18,Email
+1019,Izmir,2025-07-07,Social
+1020,Istanbul,2025-12-22,Paid Ads
+1021,Bursa,2025-01-15,Social
+1022,Istanbul,2025-01-01,Organic
+1023,Van,2025-10-05,Organic
+1024,Konya,2025-09-13,Paid Ads
+1025,Samsun,2025-11-16,Paid Ads
+1026,Diyarbakir,2025-05-13,Organic
+1027,Bursa,2025-10-21,Paid Ads
+1028,Ankara,2025-10-07,Organic
+1029,Izmir,2025-05-03,Paid Ads
+1030,Ankara,2025-02-23,Organic
+1031,Istanbul,2025-02-15,Social
+1032,Istanbul,2025-08-07,Paid Ads
+1033,Izmir,2025-12-23,Email
+1034,Istanbul,2025-06-08,Email
+1035,Istanbul,2025-09-04,Paid Ads
+1036,Eskisehir,2025-10-21,Organic
+1037,Istanbul,2025-12-12,Paid Ads
+1038,Istanbul,2025-08-12,Paid Ads
+1039,Antalya,2025-02-21,Email
+1040,Istanbul,2025-12-11,Paid Ads
+1041,Istanbul,2025-09-08,Paid Ads
+1042,Eskisehir,2025-01-05,Email
+1043,Diyarbakir,2025-12-21,Social
+1044,Bursa,2025-01-13,Email
+1045,Gaziantep,2025-05-20,Organic
+1046,Istanbul,2025-10-03,Paid Ads
+1047,Trabzon,2025-10-03,Organic
+1048,Gaziantep,2025-08-27,Organic
+1049,Izmir,2025-11-26,Email
+1050,Izmir,2025-05-04,Social
+1051,Izmir,2025-05-14,Paid Ads
+1052,Van,2025-12-06,Organic
+1053,Ankara,2025-08-20,Organic
+1054,Istanbul,2025-07-05,Paid Ads
+1055,Istanbul,2025-02-28,Social
+1056,Bursa,2025-04-02,Organic
+1057,Eskisehir,2025-09-19,Organic
+1058,Izmir,2025-12-01,Organic
+1059,Izmir,2025-09-18,Social
+1060,Samsun,2025-04-18,Social
+1061,Eskisehir,2025-11-19,Email
+1062,Izmir,2025-06-13,Social
+1063,Ankara,2025-05-18,Paid Ads
+1064,Istanbul,2025-05-10,Paid Ads
+1065,Bursa,2025-02-10,Paid Ads
+1066,Samsun,2025-04-06,Organic
+1067,Ankara,2025-03-11,Paid Ads
+1068,Bursa,2025-04-10,Email
+1069,Izmir,2025-02-10,Social
+1070,Istanbul,2025-08-18,Organic
+1071,Izmir,2025-02-05,Paid Ads
+1072,Istanbul,2025-11-08,Social
+1073,Ankara,2025-12-25,Organic
+1074,Ankara,2025-06-28,Organic
+1075,Ankara,2025-09-14,Social
+1076,Konya,2025-12-24,Organic
+1077,Istanbul,2025-03-16,Organic
+1078,Izmir,2025-06-28,Email
+1079,Antalya,2025-10-09,Email
+1080,Samsun,2025-03-04,Paid Ads
+1081,Ankara,2025-09-23,Social
+1082,Istanbul,2025-01-28,Social
+1083,Istanbul,2025-05-13,Organic
+1084,Istanbul,2025-01-02,Paid Ads
+1085,Van,2025-01-20,Paid Ads
+1086,Istanbul,2025-06-13,Organic
+1087,Izmir,2025-07-18,Social
+1088,Istanbul,2025-11-16,Email
+1089,Gaziantep,2025-01-05,Organic
+1090,Izmir,2025-11-26,Social
+1091,Diyarbakir,2025-11-01,Organic
+1092,Izmir,2025-10-05,Organic
+1093,Istanbul,2025-10-05,Organic
+1094,Diyarbakir,2025-03-11,Email
+1095,Eskisehir,2025-06-10,Email
+1096,Istanbul,2025-01-10,Paid Ads
+1097,Gaziantep,2025-03-08,Social
+1098,Van,2025-01-12,Email
+1099,Antalya,2025-07-14,Paid Ads
+1100,Izmir,2025-06-08,Email
+1101,Eskisehir,2025-05-06,Email
+1102,Istanbul,2025-12-17,Organic
+1103,Eskisehir,2025-11-12,Paid Ads
+1104,Diyarbakir,2025-04-19,Organic
+1105,Samsun,2025-05-26,Social
+1106,Izmir,2025-09-09,Organic
+1107,Izmir,2025-01-17,Paid Ads
+1108,Ankara,2025-12-02,Organic
+1109,Istanbul,2025-05-21,Email
+1110,Istanbul,2025-09-18,Organic
+1111,Diyarbakir,2025-02-24,Organic
+1112,Istanbul,2025-02-02,Social
+1113,Trabzon,2025-09-19,Social
+1114,Samsun,2025-11-24,Social
+1115,Istanbul,2025-06-01,Paid Ads
+1116,Gaziantep,2025-10-24,Organic
+1117,Diyarbakir,2025-05-05,Organic
+1118,Istanbul,2025-11-07,Organic
+1119,Istanbul,2025-12-15,Paid Ads
+1120,Van,2025-02-18,Organic
+1121,Izmir,2025-09-12,Organic
+1122,Konya,2025-05-02,Organic
+1123,Istanbul,2025-05-08,Email
+1124,Antalya,2025-10-20,Email
+1125,Istanbul,2025-07-01,Organic
+1126,Ankara,2025-02-06,Paid Ads
+1127,Istanbul,2025-08-24,Social
+1128,Istanbul,2025-10-01,Paid Ads
+1129,Samsun,2025-04-14,Social
+1130,Trabzon,2025-12-04,Social
+1131,Izmir,2025-08-15,Organic
+1132,Bursa,2025-09-11,Paid Ads
+1133,Istanbul,2025-12-27,Paid Ads
+1134,Diyarbakir,2025-09-19,Social
+1135,Antalya,2025-04-23,Organic
+1136,Istanbul,2025-05-17,Paid Ads
+1137,Istanbul,2025-03-11,Paid Ads
+1138,Izmir,2025-02-13,Organic
+1139,Ankara,2025-08-15,Email
+1140,Ankara,2025-12-14,Email
+1141,Istanbul,2025-05-21,Email
+1142,Antalya,2025-09-11,Paid Ads
+1143,Istanbul,2025-12-22,Social
+1144,Istanbul,2025-03-16,Paid Ads
+1145,Bursa,2025-10-20,Paid Ads
+1146,Ankara,2025-04-11,Organic
+1147,Ankara,2025-05-04,Organic
+1148,Antalya,2025-08-14,Social
+1149,Eskisehir,2025-06-27,Organic
+1150,Trabzon,2025-10-26,Paid Ads
+1151,Diyarbakir,2025-11-16,Paid Ads
+1152,Istanbul,2025-10-28,Organic
+1153,Antalya,2025-05-17,Organic
+1154,Istanbul,2025-11-15,Email
+1155,Antalya,2025-12-18,Paid Ads
+1156,Van,2025-10-08,Organic
+1157,Istanbul,2025-05-16,Organic
+1158,Istanbul,2025-04-10,Organic
+1159,Izmir,2025-10-24,Organic
+1160,Antalya,2025-10-23,Organic
+1161,Ankara,2025-02-02,Email
+1162,Istanbul,2025-01-12,Social
+1163,Samsun,2025-07-25,Organic
+1164,Diyarbakir,2025-10-04,Social
+1165,Diyarbakir,2025-05-02,Email
+1166,Bursa,2025-11-11,Organic
+1167,Diyarbakir,2025-05-02,Paid Ads
+1168,Ankara,2025-01-25,Paid Ads
+1169,Konya,2025-08-05,Organic
+1170,Diyarbakir,2025-09-24,Paid Ads
+1171,Ankara,2025-11-26,Email
+1172,Istanbul,2025-06-20,Email
+1173,Istanbul,2025-11-01,Email
+1174,Istanbul,2025-05-25,Organic
+1175,Istanbul,2025-05-05,Paid Ads
+1176,Diyarbakir,2025-06-21,Social
+1177,Gaziantep,2025-07-20,Paid Ads
+1178,Ankara,2025-12-14,Email
+1179,Trabzon,2025-11-20,Paid Ads
+1180,Istanbul,2025-11-27,Organic
+1181,Bursa,2025-06-02,Paid Ads
+1182,Istanbul,2025-11-15,Email
+1183,Ankara,2025-12-27,Email
+1184,Gaziantep,2025-12-24,Email
+1185,Konya,2025-08-25,Organic
+1186,Ankara,2025-12-16,Organic
+1187,Antalya,2025-11-26,Organic
+1188,Antalya,2025-03-12,Paid Ads
+1189,Bursa,2025-04-05,Organic
+1190,Ankara,2025-05-16,Social
+1191,Antalya,2025-05-01,Email
+1192,Izmir,2025-11-08,Social
+1193,Konya,2025-01-13,Paid Ads
+1194,Ankara,2025-12-05,Organic
+1195,Samsun,2025-10-12,Paid Ads
+1196,Bursa,2025-03-20,Organic
+1197,Izmir,2025-01-23,Social
+1198,Trabzon,2025-06-27,Paid Ads
+1199,Trabzon,2025-07-25,Organic
+1200,Ankara,2025-06-04,Organic
+1201,Istanbul,2025-05-10,Social
+1202,Antalya,2025-09-15,Organic
+1203,Istanbul,2025-12-22,Paid Ads
+1204,Istanbul,2025-08-18,Paid Ads
+1205,Izmir,2025-10-25,Email
+1206,Ankara,2025-03-18,Paid Ads
+1207,Eskisehir,2025-01-06,Paid Ads
+1208,Istanbul,2025-12-08,Email
+1209,Izmir,2025-04-19,Organic
+1210,Trabzon,2025-08-07,Organic
+1211,Istanbul,2025-08-11,Paid Ads
+1212,Gaziantep,2025-12-09,Email
+1213,Eskisehir,2025-10-10,Social
+1214,Trabzon,2025-06-19,Organic
+1215,Ankara,2025-09-28,Paid Ads
+1216,Ankara,2025-09-24,Paid Ads
+1217,Gaziantep,2025-03-07,Organic
+1218,Izmir,2025-10-22,Email
+1219,Ankara,2025-11-11,Paid Ads
+1220,Trabzon,2025-03-11,Organic
+1221,Antalya,2025-07-17,Paid Ads
+1222,Ankara,2025-01-07,Organic
+1223,Istanbul,2025-10-24,Organic
+1224,Izmir,2025-03-01,Email
+1225,Izmir,2025-12-22,Email
+1226,Diyarbakir,2025-08-28,Social
+1227,Bursa,2025-02-20,Organic
+1228,Izmir,2025-06-23,Organic
+1229,Bursa,2025-08-01,Social
+1230,Istanbul,2025-05-03,Organic
+1231,Izmir,2025-12-08,Email
+1232,Diyarbakir,2025-05-15,Paid Ads
+1233,Istanbul,2025-01-14,Social
+1234,Antalya,2025-11-23,Email
+1235,Istanbul,2025-12-22,Organic
+1236,Istanbul,2025-05-11,Organic
+1237,Gaziantep,2025-10-24,Organic
+1238,Izmir,2025-12-14,Paid Ads
+1239,Istanbul,2025-11-01,Organic
+1240,Ankara,2025-10-14,Social
+1241,Bursa,2025-08-17,Paid Ads
+1242,Antalya,2025-12-02,Email
+1243,Eskisehir,2025-03-07,Organic
+1244,Trabzon,2025-12-12,Paid Ads
+1245,Ankara,2025-06-12,Paid Ads
+1246,Istanbul,2025-09-15,Organic
+1247,Istanbul,2025-03-12,Social
+1248,Bursa,2025-01-23,Organic
+1249,Ankara,2025-10-26,Paid Ads
+1250,Bursa,2025-11-28,Social
+1251,Izmir,2025-02-04,Social
+1252,Istanbul,2025-04-03,Email
+1253,Istanbul,2025-02-26,Organic
+1254,Izmir,2025-09-20,Organic
+1255,Van,2025-08-17,Paid Ads
+1256,Diyarbakir,2025-05-10,Social
+1257,Antalya,2025-12-11,Social
+1258,Konya,2025-10-19,Organic
+1259,Ankara,2025-11-05,Social
+1260,Antalya,2025-04-11,Paid Ads
+1261,Istanbul,2025-04-19,Organic
+1262,Diyarbakir,2025-08-13,Organic
+1263,Diyarbakir,2025-06-19,Social
+1264,Samsun,2025-04-14,Email
+1265,Istanbul,2025-09-21,Paid Ads
+1266,Istanbul,2025-05-26,Organic
+1267,Ankara,2025-12-04,Organic
+1268,Ankara,2025-10-26,Organic
+1269,Eskisehir,2025-02-06,Paid Ads
+1270,Samsun,2025-03-27,Social
+1271,Samsun,2025-07-07,Email
+1272,Istanbul,2025-11-22,Organic
+1273,Diyarbakir,2025-03-16,Paid Ads
+1274,Istanbul,2025-04-02,Email
+1275,Istanbul,2025-04-01,Organic
+1276,Istanbul,2025-08-02,Social
+1277,Izmir,2025-03-15,Paid Ads
+1278,Istanbul,2025-02-28,Paid Ads
+1279,Izmir,2025-07-09,Email
+1280,Gaziantep,2025-10-12,Organic
+1281,Bursa,2025-09-24,Email
+1282,Gaziantep,2025-02-04,Social
+1283,Eskisehir,2025-08-17,Email
+1284,Bursa,2025-11-24,Email
+1285,Istanbul,2025-11-27,Organic
+1286,Gaziantep,2025-09-11,Organic
+1287,Istanbul,2025-09-01,Social
+1288,Konya,2025-05-15,Social
+1289,Istanbul,2025-06-25,Paid Ads
+1290,Antalya,2025-06-11,Email
+1291,Antalya,2025-11-07,Paid Ads
+1292,Eskisehir,2025-12-01,Paid Ads
+1293,Istanbul,2025-12-22,Social
+1294,Istanbul,2025-09-22,Organic
+1295,Istanbul,2025-03-14,Paid Ads
+1296,Gaziantep,2025-07-23,Email
+1297,Ankara,2025-07-28,Paid Ads
+1298,Istanbul,2025-03-13,Social
+1299,Izmir,2025-02-27,Social
+1300,Istanbul,2025-11-03,Social
+1301,Izmir,2025-06-02,Email
+1302,Konya,2025-07-05,Paid Ads
+1303,Gaziantep,2025-12-26,Paid Ads
+1304,Antalya,2025-04-21,Social
+1305,Ankara,2025-12-08,Email
+1306,Trabzon,2025-08-11,Organic
+1307,Istanbul,2025-09-17,Organic
+1308,Izmir,2025-11-18,Social
+1309,Istanbul,2025-12-18,Organic
+1310,Istanbul,2025-05-18,Organic
+1311,Izmir,2025-06-10,Paid Ads
+1312,Gaziantep,2025-09-19,Paid Ads
+1313,Istanbul,2025-12-14,Email
+1314,Istanbul,2025-03-05,Paid Ads
+1315,Diyarbakir,2025-07-25,Paid Ads
+1316,Trabzon,2025-07-06,Organic
+1317,Ankara,2025-11-28,Organic
+1318,Istanbul,2025-12-24,Organic
+1319,Antalya,2025-11-15,Email
+1320,Istanbul,2025-11-06,Paid Ads
+1321,Istanbul,2025-07-15,Paid Ads
+1322,Izmir,2025-12-11,Social
+1323,Samsun,2025-08-11,Organic
+1324,Bursa,2025-09-19,Email
+1325,Istanbul,2025-10-17,Organic
+1326,Samsun,2025-10-04,Organic
+1327,Eskisehir,2025-06-20,Paid Ads
+1328,Istanbul,2025-05-06,Organic
+1329,Ankara,2025-09-23,Email
+1330,Gaziantep,2025-11-06,Paid Ads
+1331,Gaziantep,2025-06-03,Organic
+1332,Antalya,2025-06-14,Email
+1333,Izmir,2025-01-10,Email
+1334,Antalya,2025-01-05,Email
+1335,Bursa,2025-12-23,Paid Ads
+1336,Istanbul,2025-04-26,Email
+1337,Ankara,2025-05-28,Social
+1338,Istanbul,2025-09-13,Organic
+1339,Diyarbakir,2025-09-18,Organic
+1340,Izmir,2025-03-21,Paid Ads
+1341,Konya,2025-12-04,Paid Ads
+1342,Izmir,2025-08-16,Email
+1343,Trabzon,2025-10-23,Paid Ads
+1344,Izmir,2025-04-17,Organic
+1345,Istanbul,2025-01-11,Social
+1346,Diyarbakir,2025-07-09,Organic
+1347,Ankara,2025-07-26,Social
+1348,Diyarbakir,2025-12-08,Social
+1349,Bursa,2025-02-26,Email
+1350,Diyarbakir,2025-05-14,Social
+1351,Antalya,2025-10-19,Organic
+1352,Konya,2025-10-02,Social
+1353,Istanbul,2025-11-25,Email
+1354,Bursa,2025-10-26,Paid Ads
+1355,Izmir,2025-05-18,Social
+1356,Ankara,2025-04-24,Email
+1357,Izmir,2025-07-18,Organic
+1358,Istanbul,2025-05-24,Paid Ads
+1359,Diyarbakir,2025-11-01,Social
+1360,Istanbul,2025-11-23,Social
+1361,Ankara,2025-09-12,Social
+1362,Izmir,2025-09-16,Paid Ads
+1363,Ankara,2025-09-09,Organic
+1364,Diyarbakir,2025-10-25,Organic
+1365,Izmir,2025-11-27,Email
+1366,Konya,2025-01-18,Social
+1367,Bursa,2025-02-21,Email
+1368,Izmir,2025-06-01,Social
+1369,Konya,2025-01-14,Organic
+1370,Bursa,2025-04-18,Paid Ads
+1371,Ankara,2025-09-12,Paid Ads
+1372,Istanbul,2025-04-24,Social
+1373,Ankara,2025-10-24,Social
+1374,Izmir,2025-05-09,Paid Ads
+1375,Eskisehir,2025-09-21,Social
+1376,Konya,2025-12-11,Social
+1377,Izmir,2025-07-08,Organic
+1378,Van,2025-06-20,Paid Ads
+1379,Ankara,2025-05-26,Organic
+1380,Bursa,2025-01-26,Email
+1381,Istanbul,2025-11-07,Organic
+1382,Bursa,2025-11-04,Paid Ads
+1383,Diyarbakir,2025-08-03,Paid Ads
+1384,Diyarbakir,2025-12-28,Email
+1385,Trabzon,2025-09-27,Organic
+1386,Eskisehir,2025-06-24,Organic
+1387,Istanbul,2025-09-24,Organic
+1388,Istanbul,2025-04-14,Organic
+1389,Diyarbakir,2025-10-23,Email
+1390,Ankara,2025-07-14,Email
+1391,Istanbul,2025-09-22,Organic
+1392,Istanbul,2025-12-13,Email
+1393,Gaziantep,2025-09-26,Paid Ads
+1394,Istanbul,2025-12-11,Organic
+1395,Istanbul,2025-01-25,Email
+1396,Ankara,2025-09-10,Email
+1397,Izmir,2025-03-28,Social
+1398,Izmir,2025-12-26,Social
+1399,Eskisehir,2025-02-07,Organic
+1400,Samsun,2025-10-18,Social
+1401,Ankara,2025-12-23,Paid Ads
+1402,Van,2025-06-12,Social
+1403,Bursa,2025-11-03,Organic
+1404,Diyarbakir,2025-02-28,Organic
+1405,Konya,2025-05-10,Social
+1406,Istanbul,2025-12-05,Social
+1407,Eskisehir,2025-02-06,Organic
+1408,Gaziantep,2025-11-18,Paid Ads
+1409,Ankara,2025-12-13,Organic
+1410,Antalya,2025-04-28,Organic
+1411,Ankara,2025-08-08,Email
+1412,Samsun,2025-05-05,Social
+1413,Bursa,2025-10-27,Email
+1414,Istanbul,2025-06-16,Paid Ads
+1415,Istanbul,2025-08-18,Social
+1416,Istanbul,2025-08-13,Email
+1417,Istanbul,2025-07-17,Email
+1418,Izmir,2025-04-06,Paid Ads
+1419,Ankara,2025-09-06,Social
+1420,Ankara,2025-11-27,Email
+1421,Gaziantep,2025-11-26,Paid Ads
+1422,Istanbul,2025-12-28,Email
+1423,Istanbul,2025-08-13,Social
+1424,Antalya,2025-11-16,Organic
+1425,Istanbul,2025-04-18,Paid Ads
+1426,Gaziantep,2025-10-08,Email
+1427,Istanbul,2025-01-03,Social
+1428,Izmir,2025-07-17,Paid Ads
+1429,Istanbul,2025-12-12,Organic
+1430,Antalya,2025-02-06,Social
+1431,Istanbul,2025-07-01,Paid Ads
+1432,Diyarbakir,2025-11-27,Paid Ads
+1433,Izmir,2025-07-14,Social
+1434,Samsun,2025-01-06,Paid Ads
+1435,Istanbul,2025-09-06,Organic
+1436,Bursa,2025-02-11,Paid Ads
+1437,Izmir,2025-04-23,Social
+1438,Trabzon,2025-04-24,Paid Ads
+1439,Bursa,2025-11-20,Paid Ads
+1440,Bursa,2025-04-19,Email
+1441,Izmir,2025-10-14,Organic
+1442,Istanbul,2025-04-01,Paid Ads
+1443,Eskisehir,2025-03-04,Social
+1444,Gaziantep,2025-06-06,Paid Ads
+1445,Istanbul,2025-12-22,Organic
+1446,Bursa,2025-11-22,Email
+1447,Istanbul,2025-10-22,Organic
+1448,Eskisehir,2025-01-18,Email
+1449,Istanbul,2025-11-14,Organic
+1450,Bursa,2025-04-20,Paid Ads
+1451,Van,2025-12-22,Organic
+1452,Istanbul,2025-10-07,Paid Ads
+1453,Gaziantep,2025-07-13,Social
+1454,Istanbul,2025-08-17,Paid Ads
+1455,Van,2025-02-27,Paid Ads
+1456,Bursa,2025-03-01,Organic
+1457,Izmir,2025-10-04,Email
+1458,Izmir,2025-03-10,Email
+1459,Antalya,2025-07-14,Paid Ads
+1460,Istanbul,2025-04-21,Social
+1461,Istanbul,2025-08-02,Social
+1462,Istanbul,2025-01-19,Social
+1463,Antalya,2025-08-22,Paid Ads
+1464,Antalya,2025-04-13,Paid Ads
+1465,Eskisehir,2025-11-24,Email
+1466,Ankara,2025-12-06,Organic
+1467,Ankara,2025-01-04,Email
+1468,Gaziantep,2025-08-14,Organic
+1469,Konya,2025-10-14,Email
+1470,Antalya,2025-09-10,Email
+1471,Istanbul,2025-08-02,Paid Ads
+1472,Diyarbakir,2025-10-21,Paid Ads
+1473,Bursa,2025-10-07,Paid Ads
+1474,Samsun,2025-08-11,Social
+1475,Istanbul,2025-11-21,Organic
+1476,Ankara,2025-11-27,Paid Ads
+1477,Istanbul,2025-10-06,Paid Ads
+1478,Gaziantep,2025-12-27,Social
+1479,Istanbul,2025-12-06,Organic
+1480,Eskisehir,2025-02-07,Organic
+1481,Konya,2025-08-23,Paid Ads
+1482,Gaziantep,2025-02-04,Organic
+1483,Izmir,2025-05-20,Organic
+1484,Samsun,2025-03-05,Email
+1485,Istanbul,2025-04-23,Organic
+1486,Izmir,2025-11-20,Organic
+1487,Diyarbakir,2025-07-11,Organic
+1488,Bursa,2025-12-05,Email
+1489,Bursa,2025-03-28,Organic
+1490,Gaziantep,2025-12-21,Paid Ads
+1491,Gaziantep,2025-09-03,Paid Ads
+1492,Istanbul,2025-07-28,Organic
+1493,Antalya,2025-01-14,Email
+1494,Istanbul,2025-05-15,Email
+1495,Eskisehir,2025-12-01,Organic
+1496,Antalya,2025-02-17,Email
+1497,Izmir,2025-03-25,Social
+1498,Istanbul,2025-06-24,Organic
+1499,Istanbul,2025-06-25,Organic
+1500,Izmir,2025-06-12,Paid Ads
+1501,Istanbul,2025-03-12,Paid Ads
+1502,Samsun,2025-05-15,Organic
+1503,Bursa,2025-07-17,Paid Ads
+1504,Istanbul,2025-01-23,Email
+1505,Ankara,2025-12-28,Paid Ads
+1506,Istanbul,2025-09-24,Paid Ads
+1507,Izmir,2025-12-16,Paid Ads
+1508,Trabzon,2025-06-11,Organic
+1509,Antalya,2025-01-04,Organic
+1510,Eskisehir,2025-12-24,Social
+1511,Ankara,2025-06-23,Social
+1512,Izmir,2025-11-21,Paid Ads
+1513,Istanbul,2025-01-14,Paid Ads
+1514,Van,2025-07-19,Social
+1515,Istanbul,2025-11-09,Paid Ads
+1516,Ankara,2025-11-23,Email
+1517,Istanbul,2025-09-17,Social
+1518,Diyarbakir,2025-07-04,Social
+1519,Konya,2025-04-02,Social
+1520,Ankara,2025-10-26,Email
+1521,Izmir,2025-03-20,Social
+1522,Izmir,2025-06-24,Organic
+1523,Trabzon,2025-12-11,Email
+1524,Istanbul,2025-08-12,Social
+1525,Istanbul,2025-07-06,Paid Ads
+1526,Bursa,2025-03-07,Social
+1527,Istanbul,2025-01-15,Organic
+1528,Bursa,2025-05-10,Organic
+1529,Diyarbakir,2025-02-26,Email
+1530,Izmir,2025-03-19,Organic
+1531,Ankara,2025-08-26,Organic
+1532,Van,2025-01-16,Social
+1533,Samsun,2025-05-13,Email
+1534,Trabzon,2025-10-09,Social
+1535,Istanbul,2025-03-23,Paid Ads
+1536,Istanbul,2025-09-13,Email
+1537,Konya,2025-09-19,Organic
+1538,Samsun,2025-05-09,Paid Ads
+1539,Ankara,2025-01-13,Social
+1540,Gaziantep,2025-01-03,Organic
+1541,Izmir,2025-02-07,Organic
+1542,Istanbul,2025-10-03,Paid Ads
+1543,Antalya,2025-09-05,Organic
+1544,Diyarbakir,2025-01-27,Email
+1545,Istanbul,2025-11-26,Organic
+1546,Istanbul,2025-08-09,Organic
+1547,Istanbul,2025-01-09,Email
+1548,Trabzon,2025-04-01,Organic
+1549,Antalya,2025-05-09,Paid Ads
+1550,Samsun,2025-12-04,Organic
+1551,Antalya,2025-03-10,Organic
+1552,Trabzon,2025-09-03,Organic
+1553,Eskisehir,2025-01-21,Organic
+1554,Gaziantep,2025-08-22,Paid Ads
+1555,Konya,2025-12-15,Paid Ads
+1556,Ankara,2025-10-14,Social
+1557,Izmir,2025-06-23,Paid Ads
+1558,Istanbul,2025-03-01,Organic
+1559,Samsun,2025-03-20,Organic
+1560,Izmir,2025-12-10,Organic
+1561,Antalya,2025-05-17,Paid Ads
+1562,Istanbul,2025-04-21,Social
+1563,Ankara,2025-08-25,Paid Ads
+1564,Trabzon,2025-12-12,Social
+1565,Izmir,2025-02-19,Paid Ads
+1566,Van,2025-10-22,Paid Ads
+1567,Istanbul,2025-11-25,Organic
+1568,Izmir,2025-03-02,Paid Ads
+1569,Istanbul,2025-12-07,Paid Ads
+1570,Izmir,2025-08-24,Social
+1571,Istanbul,2025-12-11,Social
+1572,Istanbul,2025-05-17,Organic
+1573,Konya,2025-09-13,Email
+1574,Samsun,2025-10-18,Organic
+1575,Istanbul,2025-03-13,Paid Ads
+1576,Istanbul,2025-11-24,Email
+1577,Istanbul,2025-11-09,Email
+1578,Eskisehir,2025-12-23,Organic
+1579,Istanbul,2025-05-16,Paid Ads
+1580,Istanbul,2025-09-21,Email
+1581,Gaziantep,2025-03-09,Paid Ads
+1582,Istanbul,2025-04-18,Social
+1583,Istanbul,2025-02-23,Social
+1584,Izmir,2025-05-25,Paid Ads
+1585,Izmir,2025-11-19,Paid Ads
+1586,Istanbul,2025-11-18,Email
+1587,Istanbul,2025-09-27,Paid Ads
+1588,Izmir,2025-02-26,Organic
+1589,Ankara,2025-11-08,Email
+1590,Bursa,2025-12-17,Paid Ads
+1591,Istanbul,2025-11-24,Social
+1592,Bursa,2025-09-18,Social
+1593,Van,2025-11-17,Social
+1594,Gaziantep,2025-12-11,Paid Ads
+1595,Bursa,2025-06-08,Organic
+1596,Ankara,2025-05-25,Social
+1597,Ankara,2025-01-18,Organic
+1598,Izmir,2025-12-22,Organic
+1599,Izmir,2025-07-15,Paid Ads
+1600,Istanbul,2025-11-13,Organic
+1601,Antalya,2025-09-07,Social
+1602,Samsun,2025-07-15,Email
+1603,Ankara,2025-02-02,Social
+1604,Istanbul,2025-12-10,Social
+1605,Ankara,2025-12-24,Organic
+1606,Ankara,2025-07-25,Paid Ads
+1607,Ankara,2025-10-23,Paid Ads
+1608,Gaziantep,2025-11-24,Email
+1609,Ankara,2025-11-10,Organic
+1610,Antalya,2025-10-22,Organic
+1611,Bursa,2025-10-03,Organic
+1612,Istanbul,2025-08-13,Organic
+1613,Ankara,2025-06-28,Paid Ads
+1614,Ankara,2025-06-28,Organic
+1615,Gaziantep,2025-10-13,Paid Ads
+1616,Istanbul,2025-08-27,Organic
+1617,Antalya,2025-08-22,Organic
+1618,Izmir,2025-10-06,Paid Ads
+1619,Ankara,2025-06-24,Social
+1620,Trabzon,2025-12-21,Organic
+1621,Eskisehir,2025-08-11,Organic
+1622,Istanbul,2025-09-05,Social
+1623,Istanbul,2025-07-18,Paid Ads
+1624,Istanbul,2025-03-01,Paid Ads
+1625,Konya,2025-11-15,Organic
+1626,Eskisehir,2025-10-19,Email
+1627,Istanbul,2025-08-11,Paid Ads
+1628,Izmir,2025-03-25,Email
+1629,Antalya,2025-09-11,Organic
+1630,Istanbul,2025-12-14,Paid Ads
+1631,Samsun,2025-12-22,Social
+1632,Antalya,2025-12-15,Email
+1633,Istanbul,2025-12-18,Paid Ads
+1634,Istanbul,2025-02-19,Paid Ads
+1635,Istanbul,2025-10-05,Social
+1636,Diyarbakir,2025-11-27,Email
+1637,Antalya,2025-03-20,Paid Ads
+1638,Istanbul,2025-06-11,Paid Ads
+1639,Izmir,2025-09-21,Paid Ads
+1640,Van,2025-08-28,Social
+1641,Van,2025-06-08,Organic
+1642,Samsun,2025-04-14,Email
+1643,Istanbul,2025-04-18,Organic
+1644,Izmir,2025-09-26,Organic
+1645,Istanbul,2025-08-21,Email
+1646,Istanbul,2025-07-28,Paid Ads
+1647,Eskisehir,2025-03-25,Social
+1648,Ankara,2025-11-18,Paid Ads
+1649,Izmir,2025-08-07,Email
+1650,Ankara,2025-03-01,Organic
+1651,Ankara,2025-08-03,Organic
+1652,Izmir,2025-07-08,Organic
+1653,Izmir,2025-11-14,Organic
+1654,Istanbul,2025-12-22,Social
+1655,Istanbul,2025-04-05,Paid Ads
+1656,Istanbul,2025-07-10,Paid Ads
+1657,Istanbul,2025-06-24,Organic
+1658,Ankara,2025-06-23,Email
+1659,Istanbul,2025-12-08,Social
+1660,Izmir,2025-10-01,Organic
+1661,Diyarbakir,2025-10-20,Organic
+1662,Istanbul,2025-12-11,Social
+1663,Antalya,2025-12-19,Paid Ads
+1664,Gaziantep,2025-12-04,Paid Ads
+1665,Bursa,2025-01-13,Social
+1666,Izmir,2025-02-24,Email
+1667,Istanbul,2025-12-02,Paid Ads
+1668,Istanbul,2025-07-27,Paid Ads
+1669,Diyarbakir,2025-10-22,Social
+1670,Istanbul,2025-07-23,Organic
+1671,Samsun,2025-02-17,Organic
+1672,Ankara,2025-10-04,Organic
+1673,Izmir,2025-03-26,Organic
+1674,Izmir,2025-12-21,Paid Ads
+1675,Istanbul,2025-01-13,Email
+1676,Izmir,2025-03-11,Paid Ads
+1677,Ankara,2025-10-20,Paid Ads
+1678,Izmir,2025-01-09,Email
+1679,Istanbul,2025-12-18,Social
+1680,Bursa,2025-11-17,Organic
+1681,Gaziantep,2025-12-23,Organic
+1682,Antalya,2025-06-05,Paid Ads
+1683,Bursa,2025-11-09,Social
+1684,Konya,2025-10-13,Email
+1685,Izmir,2025-05-04,Social
+1686,Diyarbakir,2025-04-02,Organic
+1687,Ankara,2025-03-12,Paid Ads
+1688,Bursa,2025-10-12,Paid Ads
+1689,Ankara,2025-05-15,Social
+1690,Konya,2025-08-27,Organic
+1691,Istanbul,2025-12-05,Email
+1692,Istanbul,2025-09-17,Email
+1693,Izmir,2025-07-10,Paid Ads
+1694,Ankara,2025-01-13,Social
+1695,Antalya,2025-05-24,Paid Ads
+1696,Bursa,2025-05-25,Email
+1697,Bursa,2025-05-11,Paid Ads
+1698,Samsun,2025-08-01,Organic
+1699,Eskisehir,2025-12-15,Organic
+1700,Istanbul,2025-09-20,Social
+1701,Eskisehir,2025-09-16,Email
+1702,Van,2025-10-07,Social
+1703,Ankara,2025-10-16,Organic
+1704,Bursa,2025-12-15,Organic
+1705,Samsun,2025-01-21,Organic
+1706,Van,2025-01-10,Social
+1707,Bursa,2025-11-11,Organic
+1708,Trabzon,2025-05-23,Email
+1709,Van,2025-02-17,Organic
+1710,Istanbul,2025-06-24,Paid Ads
+1711,Izmir,2025-11-14,Social
+1712,Izmir,2025-12-12,Paid Ads
+1713,Istanbul,2025-12-04,Social
+1714,Antalya,2025-09-26,Paid Ads
+1715,Bursa,2025-03-16,Email
+1716,Istanbul,2025-06-19,Email
+1717,Izmir,2025-11-17,Paid Ads
+1718,Ankara,2025-04-19,Email
+1719,Istanbul,2025-09-18,Email
+1720,Ankara,2025-05-24,Organic
+1721,Diyarbakir,2025-03-20,Organic
+1722,Ankara,2025-05-27,Email
+1723,Izmir,2025-11-07,Social
+1724,Ankara,2025-07-19,Organic
+1725,Istanbul,2025-07-06,Paid Ads
+1726,Diyarbakir,2025-12-15,Email
+1727,Izmir,2025-11-23,Social
+1728,Ankara,2025-11-18,Paid Ads
+1729,Izmir,2025-08-22,Organic
+1730,Konya,2025-05-04,Social
+1731,Antalya,2025-08-01,Social
+1732,Istanbul,2025-07-25,Organic
+1733,Istanbul,2025-09-14,Paid Ads
+1734,Istanbul,2025-06-19,Paid Ads
+1735,Trabzon,2025-11-22,Social
+1736,Konya,2025-10-28,Organic
+1737,Izmir,2025-06-14,Organic
+1738,Ankara,2025-01-02,Organic
+1739,Izmir,2025-09-26,Paid Ads
+1740,Izmir,2025-07-27,Organic
+1741,Ankara,2025-03-27,Organic
+1742,Ankara,2025-12-14,Paid Ads
+1743,Konya,2025-03-19,Paid Ads
+1744,Istanbul,2025-04-21,Social
+1745,Gaziantep,2025-01-13,Organic
+1746,Bursa,2025-12-03,Email
+1747,Istanbul,2025-11-01,Social
+1748,Antalya,2025-11-11,Email
+1749,Antalya,2025-10-17,Paid Ads
+1750,Bursa,2025-12-01,Paid Ads
+1751,Izmir,2025-12-05,Email
+1752,Eskisehir,2025-07-12,Email
+1753,Konya,2025-06-13,Organic
+1754,Izmir,2025-01-24,Paid Ads
+1755,Antalya,2025-03-08,Organic
+1756,Samsun,2025-05-01,Email
+1757,Bursa,2025-11-08,Organic
+1758,Ankara,2025-03-19,Paid Ads
+1759,Antalya,2025-11-16,Email
+1760,Konya,2025-02-04,Email
+1761,Istanbul,2025-03-03,Social
+1762,Istanbul,2025-11-03,Paid Ads
+1763,Van,2025-03-08,Organic
+1764,Istanbul,2025-04-09,Paid Ads
+1765,Istanbul,2025-01-14,Email
+1766,Ankara,2025-10-10,Organic
+1767,Istanbul,2025-11-16,Organic
+1768,Izmir,2025-02-26,Paid Ads
+1769,Bursa,2025-10-16,Organic
+1770,Trabzon,2025-04-01,Organic
+1771,Ankara,2025-07-19,Paid Ads
+1772,Bursa,2025-02-21,Organic
+1773,Istanbul,2025-12-24,Email
+1774,Istanbul,2025-05-16,Organic
+1775,Eskisehir,2025-03-26,Organic
+1776,Ankara,2025-09-06,Organic
+1777,Antalya,2025-09-23,Paid Ads
+1778,Gaziantep,2025-09-02,Organic
+1779,Van,2025-11-06,Social
+1780,Izmir,2025-10-24,Email
+1781,Bursa,2025-12-04,Organic
+1782,Diyarbakir,2025-10-18,Organic
+1783,Istanbul,2025-11-11,Organic
+1784,Izmir,2025-02-17,Organic
+1785,Izmir,2025-05-16,Organic
+1786,Istanbul,2025-08-05,Organic
+1787,Istanbul,2025-12-02,Email
+1788,Gaziantep,2025-01-12,Social
+1789,Istanbul,2025-11-28,Paid Ads
+1790,Istanbul,2025-12-09,Organic
+1791,Izmir,2025-02-13,Organic
+1792,Izmir,2025-11-26,Organic
+1793,Trabzon,2025-09-22,Organic
+1794,Ankara,2025-07-25,Email
+1795,Diyarbakir,2025-04-24,Paid Ads
+1796,Samsun,2025-01-22,Organic
+1797,Izmir,2025-12-25,Organic
+1798,Istanbul,2025-08-04,Organic
+1799,Bursa,2025-12-06,Paid Ads
+1800,Istanbul,2025-11-14,Paid Ads
+1801,Van,2025-07-02,Social
+1802,Gaziantep,2025-11-05,Organic
+1803,Antalya,2025-11-25,Paid Ads
+1804,Izmir,2025-11-16,Social
+1805,Antalya,2025-06-08,Paid Ads
+1806,Samsun,2025-05-23,Social
+1807,Izmir,2025-07-14,Organic
+1808,Diyarbakir,2025-11-20,Organic
+1809,Istanbul,2025-12-18,Organic
+1810,Van,2025-12-02,Paid Ads
+1811,Ankara,2025-11-02,Paid Ads
+1812,Ankara,2025-05-07,Email
+1813,Trabzon,2025-11-24,Paid Ads
+1814,Izmir,2025-12-03,Paid Ads
+1815,Konya,2025-02-17,Paid Ads
+1816,Gaziantep,2025-01-04,Social
+1817,Antalya,2025-03-15,Organic
+1818,Bursa,2025-11-28,Organic
+1819,Antalya,2025-12-14,Organic
+1820,Izmir,2025-04-16,Organic
+1821,Diyarbakir,2025-12-16,Social
+1822,Antalya,2025-02-24,Paid Ads
+1823,Trabzon,2025-12-02,Organic
+1824,Istanbul,2025-06-26,Organic
+1825,Istanbul,2025-01-24,Organic
+1826,Istanbul,2025-11-12,Social
+1827,Ankara,2025-08-14,Paid Ads
+1828,Bursa,2025-03-27,Paid Ads
+1829,Van,2025-09-25,Social
+1830,Bursa,2025-09-11,Email
+1831,Van,2025-12-13,Email
+1832,Istanbul,2025-01-01,Organic
+1833,Istanbul,2025-11-10,Paid Ads
+1834,Bursa,2025-07-09,Organic
+1835,Antalya,2025-05-24,Email
+1836,Istanbul,2025-10-27,Organic
+1837,Antalya,2025-11-18,Organic
+1838,Ankara,2025-11-15,Organic
+1839,Gaziantep,2025-05-07,Paid Ads
+1840,Ankara,2025-06-25,Social
+1841,Istanbul,2025-01-07,Social
+1842,Ankara,2025-07-16,Social
+1843,Istanbul,2025-11-19,Organic
+1844,Bursa,2025-11-14,Social
+1845,Izmir,2025-01-06,Email
+1846,Bursa,2025-05-22,Organic
+1847,Istanbul,2025-12-18,Email
+1848,Istanbul,2025-10-17,Organic
+1849,Diyarbakir,2025-08-21,Organic
+1850,Istanbul,2025-07-18,Social
+1851,Ankara,2025-12-22,Organic
+1852,Istanbul,2025-10-08,Organic
+1853,Izmir,2025-08-14,Paid Ads
+1854,Istanbul,2025-10-26,Social
+1855,Eskisehir,2025-06-13,Organic
+1856,Istanbul,2025-01-05,Email
+1857,Trabzon,2025-03-14,Paid Ads
+1858,Samsun,2025-08-16,Email
+1859,Gaziantep,2025-11-17,Organic
+1860,Izmir,2025-05-25,Social
+1861,Antalya,2025-11-02,Social
+1862,Van,2025-11-04,Organic
+1863,Istanbul,2025-02-21,Paid Ads
+1864,Izmir,2025-02-25,Paid Ads
+1865,Istanbul,2025-06-21,Social
+1866,Konya,2025-10-27,Organic
+1867,Konya,2025-12-13,Paid Ads
+1868,Istanbul,2025-01-17,Social
+1869,Van,2025-12-04,Social
+1870,Van,2025-06-03,Organic
+1871,Ankara,2025-08-25,Social
+1872,Samsun,2025-10-15,Organic
+1873,Antalya,2025-09-26,Organic
+1874,Eskisehir,2025-11-15,Social
+1875,Eskisehir,2025-08-15,Organic
+1876,Antalya,2025-12-24,Social
+1877,Izmir,2025-09-25,Paid Ads
+1878,Izmir,2025-11-11,Social
+1879,Ankara,2025-01-04,Paid Ads
+1880,Samsun,2025-01-20,Paid Ads
+1881,Ankara,2025-11-18,Paid Ads
+1882,Eskisehir,2025-10-01,Organic
+1883,Konya,2025-04-18,Email
+1884,Izmir,2025-03-26,Social
+1885,Van,2025-12-20,Organic
+1886,Gaziantep,2025-08-03,Paid Ads
+1887,Diyarbakir,2025-12-11,Organic
+1888,Ankara,2025-08-14,Social
+1889,Bursa,2025-11-28,Paid Ads
+1890,Izmir,2025-10-16,Social
+1891,Istanbul,2025-09-04,Organic
+1892,Van,2025-12-07,Organic
+1893,Istanbul,2025-03-24,Organic
+1894,Konya,2025-11-24,Paid Ads
+1895,Istanbul,2025-03-23,Organic
+1896,Samsun,2025-05-04,Organic
+1897,Bursa,2025-08-28,Paid Ads
+1898,Diyarbakir,2025-11-15,Paid Ads
+1899,Istanbul,2025-06-09,Organic
+1900,Trabzon,2025-09-11,Organic
+1901,Bursa,2025-09-14,Social
+1902,Istanbul,2025-07-10,Email
+1903,Antalya,2025-11-09,Organic
+1904,Trabzon,2025-12-23,Organic
+1905,Konya,2025-02-04,Organic
+1906,Izmir,2025-08-03,Organic
+1907,Izmir,2025-01-19,Organic
+1908,Ankara,2025-09-01,Organic
+1909,Antalya,2025-08-04,Organic
+1910,Trabzon,2025-04-21,Organic
+1911,Antalya,2025-12-21,Social
+1912,Izmir,2025-11-13,Email
+1913,Ankara,2025-08-02,Organic
+1914,Ankara,2025-01-27,Organic
+1915,Istanbul,2025-06-15,Organic
+1916,Ankara,2025-04-12,Organic
+1917,Konya,2025-05-19,Social
+1918,Istanbul,2025-03-14,Email
+1919,Istanbul,2025-12-11,Social
+1920,Eskisehir,2025-01-22,Paid Ads
+1921,Istanbul,2025-10-15,Organic
+1922,Van,2025-03-04,Social
+1923,Konya,2025-04-11,Organic
+1924,Bursa,2025-03-04,Organic
+1925,Eskisehir,2025-08-20,Email
+1926,Van,2025-11-14,Paid Ads
+1927,Antalya,2025-04-19,Social
+1928,Izmir,2025-10-21,Organic
+1929,Istanbul,2025-03-16,Organic
+1930,Istanbul,2025-04-11,Paid Ads
+1931,Istanbul,2025-05-26,Social
+1932,Istanbul,2025-09-18,Paid Ads
+1933,Antalya,2025-06-19,Social
+1934,Izmir,2025-10-13,Organic
+1935,Izmir,2025-03-20,Organic
+1936,Istanbul,2025-10-08,Social
+1937,Ankara,2025-10-25,Organic
+1938,Bursa,2025-02-03,Social
+1939,Bursa,2025-01-23,Paid Ads
+1940,Izmir,2025-02-26,Organic
+1941,Diyarbakir,2025-07-08,Social
+1942,Izmir,2025-10-10,Paid Ads
+1943,Trabzon,2025-11-20,Paid Ads
+1944,Izmir,2025-04-24,Paid Ads
+1945,Samsun,2025-04-04,Email
+1946,Ankara,2025-08-22,Organic
+1947,Istanbul,2025-11-03,Email
+1948,Istanbul,2025-03-24,Organic
+1949,Istanbul,2025-08-20,Paid Ads
+1950,Istanbul,2025-07-17,Organic
+1951,Trabzon,2025-06-03,Organic
+1952,Istanbul,2025-12-12,Organic
+1953,Eskisehir,2025-09-23,Social
+1954,Samsun,2025-10-26,Organic
+1955,Trabzon,2025-09-05,Paid Ads
+1956,Ankara,2025-01-02,Organic
+1957,Ankara,2025-12-13,Organic
+1958,Bursa,2025-12-17,Paid Ads
+1959,Bursa,2025-01-28,Paid Ads
+1960,Konya,2025-10-11,Social
+1961,Istanbul,2025-12-05,Organic
+1962,Gaziantep,2025-12-07,Organic
+1963,Bursa,2025-02-06,Social
+1964,Gaziantep,2025-09-13,Organic
+1965,Izmir,2025-10-25,Organic
+1966,Ankara,2025-10-07,Paid Ads
+1967,Ankara,2025-04-15,Email
+1968,Van,2025-09-28,Organic
+1969,Eskisehir,2025-08-28,Paid Ads
+1970,Ankara,2025-10-14,Organic
+1971,Ankara,2025-04-13,Social
+1972,Istanbul,2025-11-13,Organic
+1973,Bursa,2025-08-11,Organic
+1974,Istanbul,2025-10-20,Organic
+1975,Istanbul,2025-09-16,Organic
+1976,Antalya,2025-12-25,Paid Ads
+1977,Ankara,2025-08-09,Organic
+1978,Istanbul,2025-04-10,Paid Ads
+1979,Ankara,2025-03-05,Paid Ads
+1980,Trabzon,2025-02-19,Email
+1981,Istanbul,2025-02-15,Social
+1982,Konya,2025-06-01,Paid Ads
+1983,Istanbul,2025-05-25,Social
+1984,Gaziantep,2025-02-15,Organic
+1985,Gaziantep,2025-10-06,Paid Ads
+1986,Istanbul,2025-08-01,Paid Ads
+1987,Antalya,2025-01-25,Paid Ads
+1988,Istanbul,2025-03-19,Email
+1989,Istanbul,2025-04-13,Paid Ads
+1990,Istanbul,2025-09-25,Social
+1991,Bursa,2025-02-11,Social
+1992,Antalya,2025-11-03,Paid Ads
+1993,Istanbul,2025-04-27,Social
+1994,Istanbul,2025-01-22,Email
+1995,Van,2025-11-25,Email
+1996,Istanbul,2025-10-09,Email
+1997,Diyarbakir,2025-09-21,Paid Ads
+1998,Istanbul,2025-03-03,Email
+1999,Ankara,2025-08-01,Social
+2000,Istanbul,2025-02-21,Paid Ads
+2001,Diyarbakir,2025-09-01,Social
+2002,Ankara,2025-08-27,Organic
+2003,Istanbul,2025-04-09,Organic
+2004,Antalya,2025-12-12,Social
+2005,Istanbul,2025-12-12,Email
+2006,Diyarbakir,2025-04-17,Organic
+2007,Izmir,2025-11-27,Email
+2008,Ankara,2025-06-19,Paid Ads
+2009,Diyarbakir,2025-11-16,Social
+2010,Ankara,2025-03-06,Organic
+2011,Istanbul,2025-10-17,Organic
+2012,Istanbul,2025-03-10,Social
+2013,Samsun,2025-03-11,Organic
+2014,Bursa,2025-09-15,Organic
+2015,Ankara,2025-10-26,Paid Ads
+2016,Istanbul,2025-11-18,Paid Ads
+2017,Ankara,2025-11-02,Paid Ads
+2018,Gaziantep,2025-02-22,Organic
+2019,Gaziantep,2025-11-19,Paid Ads
+2020,Ankara,2025-10-05,Email
+2021,Izmir,2025-01-24,Social
+2022,Ankara,2025-09-10,Social
+2023,Konya,2025-01-09,Social
+2024,Istanbul,2025-06-02,Social
+2025,Istanbul,2025-01-07,Social
+2026,Konya,2025-09-22,Organic
+2027,Istanbul,2025-11-20,Organic
+2028,Istanbul,2025-11-09,Social
+2029,Diyarbakir,2025-12-18,Social
+2030,Izmir,2025-09-15,Paid Ads
+2031,Istanbul,2025-11-07,Social
+2032,Van,2025-02-05,Organic
+2033,Izmir,2025-04-01,Organic
+2034,Istanbul,2025-08-02,Paid Ads
+2035,Samsun,2025-02-04,Paid Ads
+2036,Samsun,2025-06-11,Social
+2037,Istanbul,2025-12-10,Social
+2038,Bursa,2025-01-05,Social
+2039,Ankara,2025-01-08,Email
+2040,Trabzon,2025-03-13,Email
+2041,Bursa,2025-07-13,Paid Ads
+2042,Ankara,2025-10-20,Organic
+2043,Trabzon,2025-03-13,Organic
+2044,Istanbul,2025-11-28,Paid Ads
+2045,Istanbul,2025-01-22,Paid Ads
+2046,Ankara,2025-06-25,Email
+2047,Diyarbakir,2025-12-01,Organic
+2048,Istanbul,2025-04-25,Organic
+2049,Bursa,2025-10-21,Social
+2050,Diyarbakir,2025-03-11,Social
+2051,Antalya,2025-10-16,Social
+2052,Ankara,2025-01-27,Email
+2053,Izmir,2025-01-08,Organic
+2054,Istanbul,2025-11-21,Social
+2055,Samsun,2025-12-08,Social
+2056,Ankara,2025-10-07,Paid Ads
+2057,Ankara,2025-11-17,Social
+2058,Izmir,2025-08-10,Social
+2059,Gaziantep,2025-12-21,Paid Ads
+2060,Istanbul,2025-08-11,Social
+2061,Ankara,2025-02-06,Social
+2062,Konya,2025-03-15,Paid Ads
+2063,Istanbul,2025-04-15,Social
+2064,Konya,2025-10-02,Organic
+2065,Trabzon,2025-07-08,Social
+2066,Gaziantep,2025-06-07,Organic
+2067,Istanbul,2025-04-09,Social
+2068,Bursa,2025-09-27,Social
+2069,Samsun,2025-11-11,Organic
+2070,Istanbul,2025-11-04,Organic
+2071,Izmir,2025-11-12,Organic
+2072,Diyarbakir,2025-04-20,Organic
+2073,Konya,2025-10-18,Email
+2074,Ankara,2025-12-22,Paid Ads
+2075,Ankara,2025-09-08,Paid Ads
+2076,Bursa,2025-11-20,Paid Ads
+2077,Trabzon,2025-09-10,Paid Ads
+2078,Istanbul,2025-10-23,Organic
+2079,Antalya,2025-07-04,Social
+2080,Ankara,2025-11-10,Organic
+2081,Samsun,2025-08-23,Paid Ads
+2082,Izmir,2025-10-25,Email
+2083,Gaziantep,2025-10-24,Paid Ads
+2084,Izmir,2025-03-18,Paid Ads
+2085,Gaziantep,2025-11-11,Organic
+2086,Bursa,2025-12-23,Email
+2087,Izmir,2025-04-14,Paid Ads
+2088,Istanbul,2025-11-19,Email
+2089,Ankara,2025-05-07,Organic
+2090,Izmir,2025-07-18,Social
+2091,Ankara,2025-05-25,Organic
+2092,Bursa,2025-08-10,Paid Ads
+2093,Istanbul,2025-05-10,Paid Ads
+2094,Izmir,2025-05-21,Organic
+2095,Istanbul,2025-09-12,Organic
+2096,Istanbul,2025-05-23,Organic
+2097,Istanbul,2025-12-03,Organic
+2098,Istanbul,2025-10-07,Email
+2099,Bursa,2025-07-07,Organic
+2100,Istanbul,2025-11-02,Organic
+2101,Ankara,2025-03-09,Organic
+2102,Izmir,2025-09-14,Organic
+2103,Samsun,2025-01-18,Social
+2104,Izmir,2025-02-27,Organic
+2105,Izmir,2025-04-12,Organic
+2106,Izmir,2025-09-23,Paid Ads
+2107,Gaziantep,2025-03-27,Organic
+2108,Izmir,2025-09-18,Social
+2109,Antalya,2025-07-06,Social
+2110,Konya,2025-07-22,Email
+2111,Gaziantep,2025-09-25,Paid Ads
+2112,Ankara,2025-05-15,Organic
+2113,Gaziantep,2025-01-08,Social
+2114,Istanbul,2025-04-11,Organic
+2115,Bursa,2025-12-08,Organic
+2116,Istanbul,2025-08-19,Paid Ads
+2117,Istanbul,2025-06-10,Social
+2118,Izmir,2025-10-28,Paid Ads
+2119,Gaziantep,2025-03-12,Paid Ads
+2120,Istanbul,2025-07-28,Paid Ads
+2121,Bursa,2025-06-24,Paid Ads
+2122,Van,2025-03-23,Paid Ads
+2123,Ankara,2025-09-12,Email
+2124,Izmir,2025-09-04,Organic
+2125,Samsun,2025-06-27,Organic
+2126,Antalya,2025-11-07,Email
+2127,Antalya,2025-06-21,Paid Ads
+2128,Istanbul,2025-10-02,Organic
+2129,Istanbul,2025-12-25,Organic
+2130,Trabzon,2025-11-09,Paid Ads
+2131,Istanbul,2025-04-25,Social
+2132,Istanbul,2025-03-06,Paid Ads
+2133,Trabzon,2025-11-26,Organic
+2134,Gaziantep,2025-03-13,Paid Ads
+2135,Istanbul,2025-09-20,Organic
+2136,Diyarbakir,2025-11-16,Organic
+2137,Bursa,2025-09-23,Paid Ads
+2138,Antalya,2025-12-22,Email
+2139,Diyarbakir,2025-12-22,Paid Ads
+2140,Eskisehir,2025-08-01,Paid Ads
+2141,Antalya,2025-09-25,Paid Ads
+2142,Ankara,2025-09-24,Paid Ads
+2143,Ankara,2025-05-17,Paid Ads
+2144,Eskisehir,2025-07-24,Organic
+2145,Istanbul,2025-11-06,Social
+2146,Bursa,2025-05-04,Organic
+2147,Eskisehir,2025-10-18,Organic
+2148,Antalya,2025-05-05,Paid Ads
+2149,Istanbul,2025-09-12,Social
+2150,Istanbul,2025-04-12,Organic
+2151,Istanbul,2025-04-28,Social
+2152,Istanbul,2025-03-12,Organic
+2153,Eskisehir,2025-01-10,Organic
+2154,Gaziantep,2025-09-23,Email
+2155,Istanbul,2025-11-11,Social
+2156,Istanbul,2025-12-09,Email
+2157,Istanbul,2025-12-22,Social
+2158,Ankara,2025-05-11,Organic
+2159,Bursa,2025-04-03,Email
+2160,Izmir,2025-10-15,Email
+2161,Istanbul,2025-12-20,Organic
+2162,Antalya,2025-11-06,Paid Ads
+2163,Istanbul,2025-07-23,Paid Ads
+2164,Trabzon,2025-09-09,Paid Ads
+2165,Trabzon,2025-06-08,Organic
+2166,Istanbul,2025-12-03,Paid Ads
+2167,Izmir,2025-02-13,Paid Ads
+2168,Istanbul,2025-05-16,Paid Ads
+2169,Samsun,2025-04-26,Organic
+2170,Istanbul,2025-11-14,Paid Ads
+2171,Izmir,2025-11-06,Paid Ads
+2172,Istanbul,2025-09-14,Organic
+2173,Ankara,2025-03-28,Social
+2174,Antalya,2025-03-01,Organic
+2175,Bursa,2025-10-09,Social
+2176,Istanbul,2025-11-17,Email
+2177,Istanbul,2025-12-17,Email
+2178,Izmir,2025-07-06,Paid Ads
+2179,Izmir,2025-06-27,Paid Ads
+2180,Konya,2025-08-19,Social
+2181,Diyarbakir,2025-08-16,Paid Ads
+2182,Antalya,2025-05-01,Paid Ads
+2183,Trabzon,2025-01-16,Social
+2184,Gaziantep,2025-01-04,Social
+2185,Ankara,2025-02-15,Paid Ads
+2186,Trabzon,2025-05-02,Paid Ads
+2187,Konya,2025-04-17,Social
+2188,Ankara,2025-01-06,Paid Ads
+2189,Ankara,2025-09-21,Organic
+2190,Izmir,2025-12-18,Paid Ads
+2191,Istanbul,2025-04-23,Social
+2192,Istanbul,2025-10-17,Organic
+2193,Trabzon,2025-12-15,Paid Ads
+2194,Istanbul,2025-04-25,Paid Ads
+2195,Gaziantep,2025-06-08,Social
+2196,Istanbul,2025-05-19,Social
+2197,Istanbul,2025-10-05,Paid Ads
+2198,Bursa,2025-10-27,Organic
+2199,Van,2025-04-06,Social
+2200,Ankara,2025-03-10,Organic
+2201,Trabzon,2025-09-28,Organic
+2202,Ankara,2025-04-04,Social
+2203,Konya,2025-06-06,Social
+2204,Diyarbakir,2025-04-20,Social
+2205,Konya,2025-04-26,Email
+2206,Antalya,2025-12-23,Organic
+2207,Diyarbakir,2025-04-06,Paid Ads
+2208,Istanbul,2025-02-20,Social
+2209,Ankara,2025-11-24,Paid Ads
+2210,Diyarbakir,2025-05-24,Email
+2211,Izmir,2025-11-26,Email
+2212,Ankara,2025-09-15,Paid Ads
+2213,Antalya,2025-04-05,Organic
+2214,Istanbul,2025-11-02,Organic
+2215,Bursa,2025-10-08,Email
+2216,Istanbul,2025-02-14,Email
+2217,Antalya,2025-09-04,Organic
+2218,Eskisehir,2025-07-26,Email
+2219,Bursa,2025-07-19,Email
+2220,Gaziantep,2025-04-23,Organic
+2221,Ankara,2025-12-19,Email
+2222,Istanbul,2025-06-28,Paid Ads
+2223,Ankara,2025-12-18,Social
+2224,Antalya,2025-06-13,Paid Ads
+2225,Istanbul,2025-12-17,Social
+2226,Istanbul,2025-11-28,Organic
+2227,Izmir,2025-02-10,Organic
+2228,Eskisehir,2025-10-10,Social
+2229,Ankara,2025-12-22,Organic
+2230,Ankara,2025-06-23,Organic
+2231,Antalya,2025-02-03,Email
+2232,Ankara,2025-04-11,Organic
+2233,Antalya,2025-11-07,Email
+2234,Ankara,2025-10-12,Social
+2235,Istanbul,2025-01-18,Paid Ads
+2236,Konya,2025-11-18,Paid Ads
+2237,Istanbul,2025-05-24,Email
+2238,Diyarbakir,2025-05-18,Paid Ads
+2239,Izmir,2025-11-15,Social
+2240,Istanbul,2025-01-14,Paid Ads
+2241,Gaziantep,2025-08-26,Organic
+2242,Izmir,2025-10-16,Organic
+2243,Konya,2025-09-15,Paid Ads
+2244,Istanbul,2025-11-13,Paid Ads
+2245,Istanbul,2025-08-12,Organic
+2246,Ankara,2025-03-26,Social
+2247,Antalya,2025-06-03,Paid Ads
+2248,Antalya,2025-11-01,Organic
+2249,Istanbul,2025-07-02,Organic
+2250,Samsun,2025-05-20,Paid Ads
+2251,Bursa,2025-05-28,Email
+2252,Ankara,2025-09-27,Email
+2253,Gaziantep,2025-05-09,Social
+2254,Trabzon,2025-11-01,Email
+2255,Istanbul,2025-05-11,Organic
+2256,Izmir,2025-12-23,Social
+2257,Izmir,2025-10-09,Email
+2258,Ankara,2025-05-26,Paid Ads
+2259,Ankara,2025-08-13,Paid Ads
+2260,Izmir,2025-11-15,Social
+2261,Ankara,2025-12-27,Email
+2262,Izmir,2025-06-24,Paid Ads
+2263,Istanbul,2025-06-25,Organic
+2264,Samsun,2025-01-27,Social
+2265,Istanbul,2025-03-03,Paid Ads
+2266,Antalya,2025-11-18,Organic
+2267,Istanbul,2025-05-05,Social
+2268,Istanbul,2025-02-20,Social
+2269,Bursa,2025-04-07,Organic
+2270,Bursa,2025-03-02,Paid Ads
+2271,Istanbul,2025-06-18,Organic
+2272,Istanbul,2025-09-09,Organic
+2273,Ankara,2025-03-23,Paid Ads
+2274,Konya,2025-10-16,Organic
+2275,Ankara,2025-03-24,Organic
+2276,Istanbul,2025-08-06,Organic
+2277,Istanbul,2025-11-11,Organic
+2278,Konya,2025-11-21,Paid Ads
+2279,Bursa,2025-07-18,Paid Ads
+2280,Istanbul,2025-08-18,Email
+2281,Eskisehir,2025-03-06,Organic
+2282,Izmir,2025-05-13,Paid Ads
+2283,Izmir,2025-03-25,Organic
+2284,Trabzon,2025-11-06,Organic
+2285,Istanbul,2025-12-15,Organic
+2286,Trabzon,2025-06-28,Email
+2287,Trabzon,2025-09-16,Paid Ads
+2288,Istanbul,2025-04-04,Organic
+2289,Istanbul,2025-08-26,Email
+2290,Samsun,2025-09-10,Paid Ads
+2291,Ankara,2025-05-06,Social
+2292,Konya,2025-06-15,Paid Ads
+2293,Gaziantep,2025-06-05,Organic
+2294,Istanbul,2025-12-06,Email
+2295,Eskisehir,2025-05-16,Paid Ads
+2296,Konya,2025-11-27,Email
+2297,Konya,2025-12-14,Paid Ads
+2298,Konya,2025-11-25,Organic
+2299,Istanbul,2025-05-02,Paid Ads
+2300,Konya,2025-01-16,Organic
+2301,Istanbul,2025-12-02,Paid Ads
+2302,Eskisehir,2025-12-19,Paid Ads
+2303,Ankara,2025-10-06,Paid Ads
+2304,Istanbul,2025-06-27,Organic
+2305,Ankara,2025-01-11,Email
+2306,Ankara,2025-09-22,Social
+2307,Ankara,2025-04-16,Social
+2308,Izmir,2025-12-27,Paid Ads
+2309,Istanbul,2025-06-26,Organic
+2310,Antalya,2025-02-03,Paid Ads
+2311,Istanbul,2025-01-20,Paid Ads
+2312,Istanbul,2025-03-10,Paid Ads
+2313,Ankara,2025-12-19,Email
+2314,Antalya,2025-11-19,Social
+2315,Antalya,2025-12-06,Organic
+2316,Antalya,2025-05-17,Organic
+2317,Eskisehir,2025-09-22,Organic
+2318,Konya,2025-05-18,Organic
+2319,Gaziantep,2025-06-07,Paid Ads
+2320,Istanbul,2025-03-13,Social
+2321,Istanbul,2025-08-16,Organic
+2322,Gaziantep,2025-08-27,Email
+2323,Bursa,2025-08-10,Social
+2324,Antalya,2025-05-15,Organic
+2325,Samsun,2025-09-10,Email
+2326,Ankara,2025-01-23,Organic
+2327,Ankara,2025-12-06,Social
+2328,Ankara,2025-12-22,Social
+2329,Izmir,2025-12-14,Email
+2330,Izmir,2025-01-16,Paid Ads
+2331,Gaziantep,2025-02-15,Organic
+2332,Istanbul,2025-10-01,Paid Ads
+2333,Izmir,2025-06-22,Paid Ads
+2334,Izmir,2025-09-18,Social
+2335,Izmir,2025-07-04,Paid Ads
+2336,Istanbul,2025-12-09,Social
+2337,Antalya,2025-11-21,Organic
+2338,Istanbul,2025-11-11,Paid Ads
+2339,Izmir,2025-01-02,Paid Ads
+2340,Bursa,2025-02-05,Organic
+2341,Istanbul,2025-11-07,Organic
+2342,Gaziantep,2025-05-20,Organic
+2343,Istanbul,2025-09-22,Paid Ads
+2344,Gaziantep,2025-04-14,Paid Ads
+2345,Istanbul,2025-03-26,Organic
+2346,Eskisehir,2025-11-01,Paid Ads
+2347,Ankara,2025-01-24,Social
+2348,Gaziantep,2025-07-22,Email
+2349,Izmir,2025-07-12,Organic
+2350,Istanbul,2025-03-14,Email
+2351,Ankara,2025-09-23,Paid Ads
+2352,Istanbul,2025-04-24,Paid Ads
+2353,Antalya,2025-06-25,Organic
+2354,Bursa,2025-12-08,Social
+2355,Istanbul,2025-04-24,Email
+2356,Istanbul,2025-12-15,Email
+2357,Istanbul,2025-04-21,Paid Ads
+2358,Samsun,2025-06-08,Organic
+2359,Bursa,2025-02-22,Email
+2360,Eskisehir,2025-03-01,Social
+2361,Gaziantep,2025-02-20,Organic
+2362,Gaziantep,2025-09-04,Paid Ads
+2363,Konya,2025-11-25,Email
+2364,Ankara,2025-10-24,Organic
+2365,Istanbul,2025-12-04,Paid Ads
+2366,Trabzon,2025-11-05,Paid Ads
+2367,Izmir,2025-10-13,Paid Ads
+2368,Izmir,2025-10-25,Organic
+2369,Izmir,2025-07-15,Social
+2370,Samsun,2025-03-08,Email
+2371,Antalya,2025-09-12,Organic
+2372,Diyarbakir,2025-11-01,Social
+2373,Izmir,2025-12-10,Paid Ads
+2374,Konya,2025-09-04,Organic
+2375,Istanbul,2025-04-28,Email
+2376,Van,2025-11-16,Organic
+2377,Diyarbakir,2025-07-10,Paid Ads
+2378,Diyarbakir,2025-05-19,Email
+2379,Istanbul,2025-05-13,Paid Ads
+2380,Izmir,2025-09-20,Social
+2381,Istanbul,2025-06-07,Email
+2382,Istanbul,2025-04-28,Paid Ads
+2383,Istanbul,2025-10-18,Paid Ads
+2384,Izmir,2025-03-18,Paid Ads
+2385,Istanbul,2025-10-15,Paid Ads
+2386,Antalya,2025-07-26,Paid Ads
+2387,Istanbul,2025-09-15,Organic
+2388,Ankara,2025-11-22,Email
+2389,Antalya,2025-11-07,Paid Ads
+2390,Istanbul,2025-08-26,Paid Ads
+2391,Gaziantep,2025-03-13,Paid Ads
+2392,Konya,2025-09-14,Organic
+2393,Istanbul,2025-12-22,Organic
+2394,Konya,2025-12-08,Social
+2395,Istanbul,2025-12-18,Organic
+2396,Diyarbakir,2025-10-20,Social
+2397,Izmir,2025-02-26,Organic
+2398,Ankara,2025-02-18,Paid Ads
+2399,Istanbul,2025-08-11,Social
+2400,Istanbul,2025-11-24,Paid Ads
+2401,Istanbul,2025-08-04,Organic
+2402,Trabzon,2025-09-26,Paid Ads
+2403,Gaziantep,2025-05-21,Email
+2404,Konya,2025-12-26,Social
+2405,Ankara,2025-02-05,Paid Ads
+2406,Gaziantep,2025-05-22,Organic
+2407,Trabzon,2025-02-03,Organic
+2408,Istanbul,2025-11-08,Email
+2409,Istanbul,2025-09-07,Paid Ads
+2410,Gaziantep,2025-10-04,Email
+2411,Ankara,2025-10-21,Email
+2412,Eskisehir,2025-01-05,Organic
+2413,Gaziantep,2025-09-15,Social
+2414,Izmir,2025-02-21,Paid Ads
+2415,Izmir,2025-12-24,Social
+2416,Bursa,2025-12-18,Email
+2417,Van,2025-12-18,Paid Ads
+2418,Bursa,2025-05-11,Email
+2419,Istanbul,2025-02-08,Social
+2420,Trabzon,2025-11-07,Paid Ads
+2421,Ankara,2025-04-04,Email
+2422,Istanbul,2025-05-25,Email
+2423,Istanbul,2025-09-08,Paid Ads
+2424,Gaziantep,2025-01-26,Paid Ads
+2425,Ankara,2025-11-12,Paid Ads
+2426,Bursa,2025-06-21,Paid Ads
+2427,Istanbul,2025-05-11,Email
+2428,Konya,2025-03-18,Organic
+2429,Izmir,2025-02-13,Paid Ads
+2430,Trabzon,2025-07-20,Email
+2431,Eskisehir,2025-11-05,Paid Ads
+2432,Bursa,2025-08-16,Email
+2433,Izmir,2025-08-11,Organic
+2434,Izmir,2025-02-09,Organic
+2435,Istanbul,2025-11-05,Paid Ads
+2436,Istanbul,2025-10-02,Email
+2437,Van,2025-06-14,Social
+2438,Izmir,2025-10-07,Paid Ads
+2439,Istanbul,2025-05-01,Organic
+2440,Konya,2025-09-14,Paid Ads
+2441,Ankara,2025-04-06,Paid Ads
+2442,Istanbul,2025-07-02,Paid Ads
+2443,Istanbul,2025-05-12,Social
+2444,Izmir,2025-07-17,Organic
+2445,Istanbul,2025-09-16,Paid Ads
+2446,Samsun,2025-03-18,Email
+2447,Istanbul,2025-12-15,Social
+2448,Gaziantep,2025-01-16,Paid Ads
+2449,Konya,2025-04-22,Social
+2450,Istanbul,2025-04-28,Social
+2451,Izmir,2025-08-23,Social
+2452,Trabzon,2025-11-19,Paid Ads
+2453,Istanbul,2025-01-18,Organic
+2454,Istanbul,2025-10-22,Social
+2455,Trabzon,2025-07-15,Paid Ads
+2456,Bursa,2025-04-23,Social
+2457,Ankara,2025-04-27,Organic
+2458,Samsun,2025-03-21,Social
+2459,Izmir,2025-10-27,Email
+2460,Izmir,2025-10-05,Social
+2461,Istanbul,2025-07-03,Organic
+2462,Izmir,2025-09-05,Paid Ads
+2463,Istanbul,2025-05-07,Email
+2464,Izmir,2025-12-04,Paid Ads
+2465,Ankara,2025-08-07,Social
+2466,Bursa,2025-05-01,Paid Ads
+2467,Izmir,2025-01-15,Organic
+2468,Ankara,2025-10-20,Organic
+2469,Istanbul,2025-07-22,Email
+2470,Bursa,2025-02-18,Organic
+2471,Istanbul,2025-06-15,Organic
+2472,Izmir,2025-03-26,Paid Ads
+2473,Konya,2025-11-14,Email
+2474,Istanbul,2025-12-24,Organic
+2475,Antalya,2025-05-05,Social
+2476,Istanbul,2025-11-24,Paid Ads
+2477,Antalya,2025-07-10,Organic
+2478,Gaziantep,2025-03-07,Organic
+2479,Istanbul,2025-05-13,Organic
+2480,Istanbul,2025-11-13,Organic
+2481,Gaziantep,2025-06-16,Organic
+2482,Bursa,2025-04-28,Organic
+2483,Gaziantep,2025-02-12,Email
+2484,Istanbul,2025-10-24,Organic
+2485,Istanbul,2025-09-11,Organic
+2486,Istanbul,2025-11-19,Paid Ads
+2487,Istanbul,2025-06-12,Paid Ads
+2488,Istanbul,2025-12-20,Social
+2489,Bursa,2025-10-07,Paid Ads
+2490,Izmir,2025-01-25,Paid Ads
+2491,Izmir,2025-01-08,Organic
+2492,Izmir,2025-01-11,Organic
+2493,Istanbul,2025-01-03,Paid Ads
+2494,Bursa,2025-04-25,Organic
+2495,Antalya,2025-10-02,Organic
+2496,Istanbul,2025-02-05,Email
+2497,Gaziantep,2025-08-16,Social
+2498,Istanbul,2025-08-07,Email
+2499,Konya,2025-09-27,Paid Ads
+2500,Antalya,2025-08-02,Organic
+2501,Bursa,2025-07-21,Paid Ads
+2502,Samsun,2025-09-24,Social
+2503,Antalya,2025-12-02,Email
+2504,Diyarbakir,2025-01-02,Paid Ads
+2505,Ankara,2025-08-18,Organic
+2506,Istanbul,2025-12-09,Email
+2507,Izmir,2025-06-06,Organic
+2508,Istanbul,2025-07-24,Paid Ads
+2509,Antalya,2025-08-08,Paid Ads
+2510,Eskisehir,2025-10-15,Organic
+2511,Ankara,2025-11-16,Social
+2512,Izmir,2025-11-26,Organic
+2513,Konya,2025-07-06,Email
+2514,Ankara,2025-09-07,Social
+2515,Istanbul,2025-05-21,Paid Ads
+2516,Konya,2025-07-02,Email
+2517,Trabzon,2025-01-21,Paid Ads
+2518,Ankara,2025-06-15,Organic
+2519,Gaziantep,2025-01-10,Organic
+2520,Trabzon,2025-08-24,Social
+2521,Konya,2025-04-07,Organic
+2522,Izmir,2025-09-01,Paid Ads
+2523,Izmir,2025-10-01,Social
+2524,Van,2025-11-10,Organic
+2525,Izmir,2025-07-16,Paid Ads
+2526,Ankara,2025-05-22,Organic
+2527,Trabzon,2025-11-18,Social
+2528,Istanbul,2025-10-10,Email
+2529,Istanbul,2025-12-11,Social
+2530,Istanbul,2025-05-07,Organic
+2531,Istanbul,2025-12-02,Organic
+2532,Diyarbakir,2025-12-17,Paid Ads
+2533,Bursa,2025-11-22,Social
+2534,Diyarbakir,2025-08-03,Social
+2535,Istanbul,2025-11-09,Social
+2536,Ankara,2025-11-02,Paid Ads
+2537,Konya,2025-02-07,Paid Ads
+2538,Van,2025-09-04,Social
+2539,Trabzon,2025-11-28,Social
+2540,Ankara,2025-03-18,Paid Ads
+2541,Istanbul,2025-04-23,Paid Ads
+2542,Istanbul,2025-11-01,Social
+2543,Samsun,2025-01-20,Paid Ads
+2544,Trabzon,2025-11-07,Organic
+2545,Ankara,2025-11-05,Paid Ads
+2546,Gaziantep,2025-06-12,Organic
+2547,Istanbul,2025-12-06,Paid Ads
+2548,Trabzon,2025-09-17,Organic
+2549,Istanbul,2025-02-10,Organic
+2550,Samsun,2025-12-02,Social
+2551,Bursa,2025-01-14,Email
+2552,Ankara,2025-01-06,Organic
+2553,Ankara,2025-12-04,Organic
+2554,Gaziantep,2025-11-13,Paid Ads
+2555,Istanbul,2025-03-14,Social
+2556,Izmir,2025-01-09,Social
+2557,Istanbul,2025-12-25,Paid Ads
+2558,Bursa,2025-07-25,Organic
+2559,Izmir,2025-05-22,Paid Ads
+2560,Van,2025-09-15,Organic
+2561,Bursa,2025-07-05,Organic
+2562,Istanbul,2025-01-03,Paid Ads
+2563,Gaziantep,2025-10-18,Social
+2564,Istanbul,2025-02-23,Paid Ads
+2565,Trabzon,2025-06-15,Paid Ads
+2566,Ankara,2025-12-15,Organic
+2567,Ankara,2025-01-06,Email
+2568,Bursa,2025-05-20,Organic
+2569,Istanbul,2025-07-28,Paid Ads
+2570,Istanbul,2025-11-14,Email
+2571,Gaziantep,2025-06-18,Paid Ads
+2572,Ankara,2025-12-08,Organic
+2573,Istanbul,2025-07-05,Social
+2574,Ankara,2025-01-28,Social
+2575,Istanbul,2025-01-14,Paid Ads
+2576,Izmir,2025-07-04,Organic
+2577,Izmir,2025-09-09,Social
+2578,Eskisehir,2025-10-02,Paid Ads
+2579,Gaziantep,2025-11-13,Social
+2580,Bursa,2025-08-04,Paid Ads
+2581,Istanbul,2025-06-16,Social
+2582,Ankara,2025-05-14,Organic
+2583,Ankara,2025-05-26,Organic
+2584,Istanbul,2025-05-03,Paid Ads
+2585,Bursa,2025-06-18,Organic
+2586,Bursa,2025-06-21,Social
+2587,Konya,2025-02-25,Social
+2588,Ankara,2025-11-23,Email
+2589,Bursa,2025-07-16,Organic
+2590,Ankara,2025-10-10,Email
+2591,Antalya,2025-10-11,Social
+2592,Izmir,2025-12-13,Organic
+2593,Eskisehir,2025-12-10,Organic
+2594,Istanbul,2025-11-24,Social
+2595,Ankara,2025-08-06,Paid Ads
+2596,Gaziantep,2025-04-25,Paid Ads
+2597,Istanbul,2025-03-15,Organic
+2598,Eskisehir,2025-06-22,Paid Ads
+2599,Diyarbakir,2025-05-21,Email
+2600,Istanbul,2025-09-20,Paid Ads
+2601,Istanbul,2025-06-10,Social
+2602,Ankara,2025-12-16,Paid Ads
+2603,Konya,2025-05-20,Social
+2604,Eskisehir,2025-05-09,Social
+2605,Konya,2025-12-03,Paid Ads
+2606,Istanbul,2025-05-01,Social
+2607,Izmir,2025-09-05,Social
+2608,Izmir,2025-05-05,Paid Ads
+2609,Izmir,2025-11-22,Paid Ads
+2610,Samsun,2025-06-20,Paid Ads
+2611,Istanbul,2025-11-18,Email
+2612,Diyarbakir,2025-04-18,Paid Ads
+2613,Antalya,2025-04-10,Organic
+2614,Samsun,2025-06-16,Paid Ads
+2615,Ankara,2025-07-06,Email
+2616,Ankara,2025-12-21,Email
+2617,Istanbul,2025-01-19,Organic
+2618,Izmir,2025-11-05,Organic
+2619,Konya,2025-09-25,Email
+2620,Van,2025-03-10,Organic
+2621,Gaziantep,2025-10-21,Organic
+2622,Bursa,2025-07-08,Organic
+2623,Antalya,2025-01-19,Paid Ads
+2624,Bursa,2025-11-05,Paid Ads
+2625,Van,2025-09-09,Organic
+2626,Gaziantep,2025-08-05,Organic
+2627,Istanbul,2025-10-27,Social
+2628,Izmir,2025-10-01,Social
+2629,Diyarbakir,2025-10-13,Organic
+2630,Bursa,2025-10-13,Organic
+2631,Eskisehir,2025-04-13,Organic
+2632,Istanbul,2025-04-22,Organic
+2633,Izmir,2025-02-20,Paid Ads
+2634,Diyarbakir,2025-08-09,Paid Ads
+2635,Ankara,2025-09-24,Paid Ads
+2636,Istanbul,2025-08-07,Organic
+2637,Bursa,2025-01-12,Email
+2638,Samsun,2025-09-15,Organic
+2639,Samsun,2025-04-21,Organic
+2640,Izmir,2025-05-10,Social
+2641,Istanbul,2025-12-28,Organic
+2642,Istanbul,2025-11-25,Paid Ads
+2643,Gaziantep,2025-12-27,Social
+2644,Istanbul,2025-05-16,Paid Ads
+2645,Izmir,2025-05-24,Social
+2646,Gaziantep,2025-12-17,Organic
+2647,Istanbul,2025-06-07,Email
+2648,Ankara,2025-09-23,Organic
+2649,Ankara,2025-05-12,Organic
+2650,Istanbul,2025-06-08,Paid Ads
+2651,Bursa,2025-06-07,Paid Ads
+2652,Izmir,2025-08-28,Social
+2653,Istanbul,2025-02-11,Organic
+2654,Van,2025-03-12,Email
+2655,Bursa,2025-08-28,Paid Ads
+2656,Eskisehir,2025-10-13,Paid Ads
+2657,Ankara,2025-02-11,Organic
+2658,Istanbul,2025-04-06,Paid Ads
+2659,Istanbul,2025-09-02,Email
+2660,Bursa,2025-09-03,Email
+2661,Konya,2025-09-03,Email
+2662,Istanbul,2025-06-03,Organic
+2663,Eskisehir,2025-06-09,Paid Ads
+2664,Istanbul,2025-11-05,Email
+2665,Istanbul,2025-08-24,Organic
+2666,Ankara,2025-09-02,Organic
+2667,Eskisehir,2025-11-03,Organic
+2668,Istanbul,2025-03-07,Paid Ads
+2669,Ankara,2025-10-13,Social
+2670,Bursa,2025-05-01,Paid Ads
+2671,Ankara,2025-12-05,Email
+2672,Ankara,2025-07-15,Organic
+2673,Ankara,2025-10-02,Social
+2674,Bursa,2025-09-03,Organic
+2675,Izmir,2025-04-15,Organic
+2676,Van,2025-03-24,Organic
+2677,Eskisehir,2025-11-07,Organic
+2678,Istanbul,2025-05-20,Paid Ads
+2679,Ankara,2025-08-05,Paid Ads
+2680,Antalya,2025-03-12,Paid Ads
+2681,Bursa,2025-03-24,Email
+2682,Istanbul,2025-03-12,Organic
+2683,Izmir,2025-11-22,Social
+2684,Izmir,2025-02-14,Paid Ads
+2685,Bursa,2025-01-02,Social
+2686,Istanbul,2025-04-09,Organic
+2687,Ankara,2025-11-19,Email
+2688,Samsun,2025-05-23,Organic
+2689,Antalya,2025-03-24,Email
+2690,Diyarbakir,2025-12-12,Paid Ads
+2691,Van,2025-02-21,Organic
+2692,Istanbul,2025-11-21,Paid Ads
+2693,Eskisehir,2025-03-04,Organic
+2694,Ankara,2025-02-07,Social
+2695,Istanbul,2025-02-01,Paid Ads
+2696,Izmir,2025-12-01,Paid Ads
+2697,Samsun,2025-06-15,Organic
+2698,Istanbul,2025-02-08,Organic
+2699,Istanbul,2025-09-19,Paid Ads
+2700,Diyarbakir,2025-09-27,Social
+2701,Istanbul,2025-07-19,Social
+2702,Izmir,2025-05-20,Organic
+2703,Konya,2025-02-17,Paid Ads
+2704,Istanbul,2025-03-08,Social
+2705,Bursa,2025-01-12,Paid Ads
+2706,Trabzon,2025-09-22,Organic
+2707,Izmir,2025-11-12,Paid Ads
+2708,Istanbul,2025-04-28,Paid Ads
+2709,Van,2025-11-12,Paid Ads
+2710,Istanbul,2025-09-09,Organic
+2711,Istanbul,2025-09-26,Email
+2712,Samsun,2025-09-07,Email
+2713,Istanbul,2025-06-11,Social
+2714,Istanbul,2025-08-05,Paid Ads
+2715,Ankara,2025-09-09,Paid Ads
+2716,Istanbul,2025-11-27,Social
+2717,Istanbul,2025-11-04,Paid Ads
+2718,Istanbul,2025-08-20,Email
+2719,Diyarbakir,2025-01-17,Email
+2720,Istanbul,2025-03-27,Organic
+2721,Istanbul,2025-04-22,Organic
+2722,Izmir,2025-02-17,Email
+2723,Bursa,2025-12-02,Social
+2724,Bursa,2025-12-16,Paid Ads
+2725,Gaziantep,2025-09-22,Paid Ads
+2726,Bursa,2025-06-17,Email
+2727,Konya,2025-12-04,Paid Ads
+2728,Istanbul,2025-07-26,Social
+2729,Istanbul,2025-08-23,Email
+2730,Samsun,2025-01-24,Paid Ads
+2731,Istanbul,2025-07-24,Organic
+2732,Samsun,2025-06-05,Organic
+2733,Istanbul,2025-06-22,Organic
+2734,Konya,2025-12-17,Email
+2735,Bursa,2025-12-12,Paid Ads
+2736,Bursa,2025-01-16,Organic
+2737,Konya,2025-06-10,Organic
+2738,Istanbul,2025-02-21,Organic
+2739,Bursa,2025-03-27,Social
+2740,Izmir,2025-02-08,Organic
+2741,Izmir,2025-08-25,Paid Ads
+2742,Istanbul,2025-11-05,Organic
+2743,Eskisehir,2025-11-27,Organic
+2744,Istanbul,2025-04-12,Paid Ads
+2745,Izmir,2025-12-12,Paid Ads
+2746,Diyarbakir,2025-01-12,Paid Ads
+2747,Izmir,2025-02-21,Paid Ads
+2748,Antalya,2025-07-09,Social
+2749,Istanbul,2025-07-08,Paid Ads
+2750,Istanbul,2025-12-17,Paid Ads
+2751,Izmir,2025-10-02,Paid Ads
+2752,Izmir,2025-12-26,Paid Ads
+2753,Antalya,2025-09-25,Paid Ads
+2754,Istanbul,2025-10-15,Organic
+2755,Istanbul,2025-04-22,Organic
+2756,Trabzon,2025-07-23,Paid Ads
+2757,Samsun,2025-08-27,Social
+2758,Eskisehir,2025-11-16,Paid Ads
+2759,Istanbul,2025-10-23,Organic
+2760,Van,2025-12-19,Social
+2761,Istanbul,2025-12-10,Paid Ads
+2762,Ankara,2025-05-08,Social
+2763,Istanbul,2025-01-22,Paid Ads
+2764,Trabzon,2025-10-17,Organic
+2765,Istanbul,2025-06-01,Paid Ads
+2766,Bursa,2025-01-08,Organic
+2767,Diyarbakir,2025-10-03,Organic
+2768,Konya,2025-04-07,Organic
+2769,Antalya,2025-03-21,Paid Ads
+2770,Samsun,2025-02-21,Paid Ads
+2771,Bursa,2025-10-04,Social
+2772,Istanbul,2025-01-18,Social
+2773,Istanbul,2025-02-26,Social
+2774,Istanbul,2025-01-22,Paid Ads
+2775,Istanbul,2025-11-01,Paid Ads
+2776,Istanbul,2025-04-11,Organic
+2777,Trabzon,2025-04-10,Email
+2778,Istanbul,2025-08-22,Paid Ads
+2779,Van,2025-08-26,Organic
+2780,Istanbul,2025-11-01,Paid Ads
+2781,Gaziantep,2025-12-11,Paid Ads
+2782,Ankara,2025-07-23,Paid Ads
+2783,Istanbul,2025-06-11,Organic
+2784,Izmir,2025-02-24,Paid Ads
+2785,Ankara,2025-05-10,Paid Ads
+2786,Ankara,2025-11-16,Social
+2787,Gaziantep,2025-05-17,Paid Ads
+2788,Ankara,2025-12-01,Social
+2789,Ankara,2025-12-18,Organic
+2790,Ankara,2025-10-07,Paid Ads
+2791,Izmir,2025-11-19,Organic
+2792,Bursa,2025-08-08,Organic
+2793,Ankara,2025-12-07,Social
+2794,Ankara,2025-02-17,Organic
+2795,Izmir,2025-09-02,Social
+2796,Izmir,2025-03-11,Social
+2797,Antalya,2025-03-09,Paid Ads
+2798,Istanbul,2025-07-09,Paid Ads
+2799,Istanbul,2025-04-05,Social
+2800,Istanbul,2025-06-24,Organic
+2801,Istanbul,2025-12-16,Paid Ads
+2802,Eskisehir,2025-05-14,Social
+2803,Izmir,2025-02-19,Organic
+2804,Van,2025-12-01,Social
+2805,Istanbul,2025-10-09,Organic
+2806,Antalya,2025-11-21,Organic
+2807,Ankara,2025-02-06,Organic
+2808,Ankara,2025-06-17,Email
+2809,Eskisehir,2025-12-11,Organic
+2810,Istanbul,2025-03-11,Social
+2811,Izmir,2025-03-27,Paid Ads
+2812,Konya,2025-12-17,Email
+2813,Istanbul,2025-11-05,Organic
+2814,Istanbul,2025-09-27,Organic
+2815,Ankara,2025-05-15,Paid Ads
+2816,Van,2025-12-07,Email
+2817,Istanbul,2025-05-19,Paid Ads
+2818,Istanbul,2025-02-06,Email
+2819,Samsun,2025-07-09,Social
+2820,Izmir,2025-02-18,Social
+2821,Konya,2025-09-14,Organic
+2822,Eskisehir,2025-11-19,Organic
+2823,Gaziantep,2025-11-09,Organic
+2824,Izmir,2025-12-04,Email
+2825,Gaziantep,2025-08-17,Organic
+2826,Istanbul,2025-10-15,Organic
+2827,Ankara,2025-12-07,Organic
+2828,Istanbul,2025-10-28,Organic
+2829,Konya,2025-07-10,Organic
+2830,Samsun,2025-08-08,Social
+2831,Izmir,2025-07-26,Paid Ads
+2832,Samsun,2025-05-15,Paid Ads
+2833,Istanbul,2025-02-24,Social
+2834,Izmir,2025-03-18,Paid Ads
+2835,Istanbul,2025-03-06,Social
+2836,Istanbul,2025-09-10,Social
+2837,Konya,2025-11-02,Social
+2838,Bursa,2025-03-15,Paid Ads
+2839,Istanbul,2025-02-21,Organic
+2840,Samsun,2025-07-02,Organic
+2841,Bursa,2025-06-10,Organic
+2842,Samsun,2025-05-25,Social
+2843,Ankara,2025-12-13,Paid Ads
+2844,Izmir,2025-12-14,Paid Ads
+2845,Van,2025-01-24,Paid Ads
+2846,Istanbul,2025-05-24,Paid Ads
+2847,Ankara,2025-10-04,Paid Ads
+2848,Diyarbakir,2025-07-16,Paid Ads
+2849,Antalya,2025-08-08,Paid Ads
+2850,Istanbul,2025-03-11,Paid Ads
+2851,Eskisehir,2025-11-24,Email
+2852,Van,2025-10-04,Paid Ads
+2853,Istanbul,2025-11-25,Organic
+2854,Istanbul,2025-11-03,Paid Ads
+2855,Ankara,2025-06-26,Paid Ads
+2856,Samsun,2025-11-17,Paid Ads
+2857,Samsun,2025-11-26,Organic
+2858,Istanbul,2025-02-22,Organic
+2859,Ankara,2025-05-20,Email
+2860,Eskisehir,2025-04-27,Social
+2861,Antalya,2025-08-28,Organic
+2862,Antalya,2025-04-13,Paid Ads
+2863,Konya,2025-11-10,Paid Ads
+2864,Istanbul,2025-06-09,Social
+2865,Diyarbakir,2025-05-21,Organic
+2866,Samsun,2025-01-02,Paid Ads
+2867,Izmir,2025-08-23,Paid Ads
+2868,Ankara,2025-01-04,Organic
+2869,Istanbul,2025-02-12,Email
+2870,Istanbul,2025-08-20,Email
+2871,Istanbul,2025-12-19,Paid Ads
+2872,Istanbul,2025-04-21,Organic
+2873,Izmir,2025-04-03,Organic
+2874,Istanbul,2025-03-14,Social
+2875,Izmir,2025-04-20,Organic
+2876,Bursa,2025-05-15,Paid Ads
+2877,Van,2025-12-21,Organic
+2878,Izmir,2025-06-08,Social
+2879,Diyarbakir,2025-06-04,Organic
+2880,Istanbul,2025-03-15,Paid Ads
+2881,Samsun,2025-12-13,Organic
+2882,Izmir,2025-09-02,Organic
+2883,Bursa,2025-03-23,Organic
+2884,Izmir,2025-11-20,Social
+2885,Bursa,2025-05-16,Social
+2886,Izmir,2025-01-22,Email
+2887,Trabzon,2025-08-01,Paid Ads
+2888,Antalya,2025-05-25,Organic
+2889,Konya,2025-01-25,Paid Ads
+2890,Antalya,2025-04-04,Paid Ads
+2891,Konya,2025-09-04,Organic
+2892,Trabzon,2025-06-10,Paid Ads
+2893,Konya,2025-08-11,Email
+2894,Istanbul,2025-11-16,Organic
+2895,Izmir,2025-01-01,Paid Ads
+2896,Istanbul,2025-05-28,Email
+2897,Izmir,2025-01-19,Organic
+2898,Antalya,2025-11-27,Organic
+2899,Bursa,2025-04-08,Organic
+2900,Bursa,2025-12-09,Organic
+2901,Ankara,2025-11-25,Organic
+2902,Istanbul,2025-02-25,Paid Ads
+2903,Istanbul,2025-03-17,Organic
+2904,Istanbul,2025-11-15,Paid Ads
+2905,Ankara,2025-06-05,Organic
+2906,Van,2025-12-27,Organic
+2907,Istanbul,2025-01-09,Social
+2908,Bursa,2025-03-21,Social
+2909,Istanbul,2025-05-06,Email
+2910,Izmir,2025-12-09,Social
+2911,Ankara,2025-12-03,Social
+2912,Istanbul,2025-11-20,Paid Ads
+2913,Antalya,2025-12-09,Email
+2914,Eskisehir,2025-10-09,Email
+2915,Izmir,2025-02-08,Organic
+2916,Bursa,2025-06-07,Social
+2917,Istanbul,2025-10-08,Organic
+2918,Izmir,2025-06-06,Organic
+2919,Antalya,2025-11-16,Email
+2920,Izmir,2025-09-24,Organic
+2921,Istanbul,2025-11-07,Organic
+2922,Istanbul,2025-11-08,Organic
+2923,Eskisehir,2025-05-12,Organic
+2924,Bursa,2025-10-21,Social
+2925,Izmir,2025-02-19,Paid Ads
+2926,Istanbul,2025-03-08,Paid Ads
+2927,Istanbul,2025-09-16,Paid Ads
+2928,Gaziantep,2025-10-15,Paid Ads
+2929,Istanbul,2025-07-04,Organic
+2930,Antalya,2025-02-15,Paid Ads
+2931,Gaziantep,2025-09-13,Email
+2932,Izmir,2025-04-22,Organic
+2933,Istanbul,2025-10-03,Email
+2934,Izmir,2025-07-13,Organic
+2935,Samsun,2025-10-24,Paid Ads
+2936,Ankara,2025-09-02,Paid Ads
+2937,Istanbul,2025-06-07,Organic
+2938,Trabzon,2025-05-10,Organic
+2939,Istanbul,2025-10-21,Organic
+2940,Trabzon,2025-05-11,Paid Ads
+2941,Bursa,2025-06-10,Organic
+2942,Antalya,2025-12-21,Paid Ads
+2943,Istanbul,2025-05-16,Organic
+2944,Konya,2025-10-21,Organic
+2945,Ankara,2025-04-05,Email
+2946,Istanbul,2025-09-23,Email
+2947,Diyarbakir,2025-11-09,Organic
+2948,Ankara,2025-01-28,Email
+2949,Izmir,2025-08-04,Social
+2950,Istanbul,2025-03-26,Email
+2951,Gaziantep,2025-02-13,Paid Ads
+2952,Trabzon,2025-10-16,Organic
+2953,Istanbul,2025-12-28,Paid Ads
+2954,Diyarbakir,2025-11-05,Social
+2955,Ankara,2025-06-20,Email
+2956,Istanbul,2025-12-27,Social
+2957,Istanbul,2025-12-07,Email
+2958,Istanbul,2025-06-02,Organic
+2959,Istanbul,2025-02-16,Email
+2960,Trabzon,2025-09-27,Paid Ads
+2961,Bursa,2025-04-01,Paid Ads
+2962,Istanbul,2025-12-10,Organic
+2963,Istanbul,2025-07-09,Paid Ads
+2964,Istanbul,2025-02-06,Organic
+2965,Istanbul,2025-02-12,Paid Ads
+2966,Samsun,2025-02-23,Social
+2967,Ankara,2025-04-12,Paid Ads
+2968,Bursa,2025-11-17,Social
+2969,Bursa,2025-02-25,Social
+2970,Istanbul,2025-09-05,Social
+2971,Konya,2025-08-21,Paid Ads
+2972,Ankara,2025-02-28,Email
+2973,Izmir,2025-06-20,Organic
+2974,Istanbul,2025-06-05,Paid Ads
+2975,Istanbul,2025-02-10,Organic
+2976,Istanbul,2025-04-13,Email
+2977,Bursa,2025-04-13,Paid Ads
+2978,Bursa,2025-02-18,Paid Ads
+2979,Istanbul,2025-09-10,Organic
+2980,Ankara,2025-05-01,Organic
+2981,Ankara,2025-06-09,Social
+2982,Ankara,2025-01-28,Email
+2983,Konya,2025-06-13,Paid Ads
+2984,Istanbul,2025-09-10,Organic
+2985,Eskisehir,2025-09-28,Email
+2986,Istanbul,2025-11-14,Paid Ads
+2987,Antalya,2025-11-02,Email
+2988,Eskisehir,2025-04-08,Paid Ads
+2989,Istanbul,2025-05-03,Organic
+2990,Izmir,2025-12-21,Organic
+2991,Samsun,2025-11-16,Paid Ads
+2992,Bursa,2025-02-23,Paid Ads
+2993,Samsun,2025-05-08,Social
+2994,Izmir,2025-04-05,Social
+2995,Izmir,2025-09-27,Organic
+2996,Trabzon,2025-02-18,Social
+2997,Bursa,2025-04-20,Social
+2998,Ankara,2025-09-26,Paid Ads
+2999,Izmir,2025-04-23,Paid Ads
+3000,Trabzon,2025-02-09,Organic
+3001,Ankara,2025-11-11,Organic
+3002,Ankara,2025-10-09,Organic
+3003,Istanbul,2025-09-06,Paid Ads
+3004,Ankara,2025-04-11,Organic
+3005,Istanbul,2025-02-21,Organic
+3006,Antalya,2025-10-02,Organic
+3007,Ankara,2025-02-11,Paid Ads
+3008,Istanbul,2025-03-15,Social
+3009,Istanbul,2025-10-16,Paid Ads
+3010,Izmir,2025-09-24,Paid Ads
+3011,Istanbul,2025-07-10,Organic
+3012,Istanbul,2025-09-03,Social
+3013,Gaziantep,2025-10-17,Organic
+3014,Antalya,2025-05-03,Organic
+3015,Istanbul,2025-03-16,Email
+3016,Istanbul,2025-01-11,Organic
+3017,Istanbul,2025-10-18,Email
+3018,Istanbul,2025-12-18,Email
+3019,Istanbul,2025-08-19,Social
+3020,Samsun,2025-07-28,Email
+3021,Bursa,2025-05-15,Paid Ads
+3022,Izmir,2025-11-08,Social
+3023,Izmir,2025-09-05,Social
+3024,Gaziantep,2025-06-22,Organic
+3025,Izmir,2025-02-03,Paid Ads
+3026,Antalya,2025-09-14,Email
+3027,Eskisehir,2025-06-16,Organic
+3028,Trabzon,2025-04-17,Paid Ads
+3029,Gaziantep,2025-11-23,Organic
+3030,Istanbul,2025-10-16,Organic
+3031,Ankara,2025-05-10,Email
+3032,Istanbul,2025-07-21,Paid Ads
+3033,Istanbul,2025-03-07,Organic
+3034,Eskisehir,2025-05-03,Social
+3035,Istanbul,2025-05-26,Organic
+3036,Izmir,2025-12-15,Social
+3037,Ankara,2025-03-01,Organic
+3038,Antalya,2025-08-09,Organic
+3039,Ankara,2025-01-04,Paid Ads
+3040,Istanbul,2025-12-01,Social
+3041,Izmir,2025-11-09,Social
+3042,Izmir,2025-11-12,Social
+3043,Izmir,2025-11-21,Paid Ads
+3044,Ankara,2025-09-14,Social
+3045,Gaziantep,2025-01-04,Organic
+3046,Bursa,2025-08-23,Social
+3047,Izmir,2025-09-11,Email
+3048,Istanbul,2025-04-18,Paid Ads
+3049,Istanbul,2025-10-28,Organic
+3050,Trabzon,2025-05-15,Organic
+3051,Ankara,2025-11-11,Organic
+3052,Konya,2025-12-24,Paid Ads
+3053,Istanbul,2025-02-17,Paid Ads
+3054,Ankara,2025-12-19,Email
+3055,Izmir,2025-07-07,Email
+3056,Antalya,2025-04-24,Email
+3057,Istanbul,2025-11-24,Email
+3058,Van,2025-07-13,Organic
+3059,Trabzon,2025-01-01,Paid Ads
+3060,Istanbul,2025-07-14,Paid Ads
+3061,Antalya,2025-12-22,Paid Ads
+3062,Ankara,2025-03-17,Paid Ads
+3063,Bursa,2025-08-01,Social
+3064,Eskisehir,2025-07-11,Email
+3065,Konya,2025-05-24,Email
+3066,Istanbul,2025-08-18,Organic
+3067,Ankara,2025-08-20,Organic
+3068,Istanbul,2025-07-04,Paid Ads
+3069,Ankara,2025-04-14,Organic
+3070,Gaziantep,2025-02-10,Organic
+3071,Ankara,2025-04-27,Email
+3072,Istanbul,2025-01-28,Paid Ads
+3073,Antalya,2025-06-09,Organic
+3074,Trabzon,2025-01-19,Organic
+3075,Diyarbakir,2025-11-14,Email
+3076,Istanbul,2025-08-06,Paid Ads
+3077,Ankara,2025-11-15,Organic
+3078,Eskisehir,2025-09-12,Organic
+3079,Istanbul,2025-08-19,Social
+3080,Konya,2025-07-22,Social
+3081,Bursa,2025-12-15,Paid Ads
+3082,Ankara,2025-04-19,Organic
+3083,Antalya,2025-05-17,Organic
+3084,Istanbul,2025-02-10,Email
+3085,Istanbul,2025-10-14,Social
+3086,Bursa,2025-07-21,Social
+3087,Trabzon,2025-01-21,Organic
+3088,Izmir,2025-12-06,Social
+3089,Antalya,2025-11-14,Email
+3090,Ankara,2025-12-24,Email
+3091,Izmir,2025-11-08,Organic
+3092,Istanbul,2025-04-14,Paid Ads
+3093,Gaziantep,2025-09-20,Social
+3094,Izmir,2025-01-08,Organic
+3095,Ankara,2025-09-22,Organic
+3096,Samsun,2025-04-17,Social
+3097,Ankara,2025-02-23,Organic
+3098,Istanbul,2025-05-18,Organic
+3099,Bursa,2025-10-22,Paid Ads
+3100,Izmir,2025-05-13,Email
+3101,Izmir,2025-03-04,Social
+3102,Gaziantep,2025-03-28,Paid Ads
+3103,Antalya,2025-10-04,Social
+3104,Izmir,2025-01-07,Social
+3105,Izmir,2025-01-02,Paid Ads
+3106,Istanbul,2025-12-22,Social
+3107,Bursa,2025-11-22,Email
+3108,Konya,2025-10-18,Organic
+3109,Istanbul,2025-02-03,Organic
+3110,Izmir,2025-05-28,Email
+3111,Trabzon,2025-07-08,Organic
+3112,Izmir,2025-12-01,Organic
+3113,Istanbul,2025-09-22,Social
+3114,Gaziantep,2025-01-02,Organic
+3115,Istanbul,2025-12-13,Paid Ads
+3116,Istanbul,2025-11-20,Paid Ads
+3117,Istanbul,2025-02-19,Email
+3118,Izmir,2025-08-16,Paid Ads
+3119,Ankara,2025-03-26,Organic
+3120,Gaziantep,2025-04-09,Paid Ads
+3121,Gaziantep,2025-03-12,Organic
+3122,Ankara,2025-02-09,Organic
+3123,Istanbul,2025-08-16,Email
+3124,Istanbul,2025-08-15,Paid Ads
+3125,Istanbul,2025-07-13,Organic
+3126,Gaziantep,2025-06-24,Social
+3127,Eskisehir,2025-11-26,Organic
+3128,Bursa,2025-05-02,Email
+3129,Izmir,2025-01-25,Social
+3130,Bursa,2025-10-28,Organic
+3131,Diyarbakir,2025-04-18,Paid Ads
+3132,Ankara,2025-08-08,Email
+3133,Van,2025-10-23,Organic
+3134,Istanbul,2025-05-10,Social
+3135,Istanbul,2025-01-25,Organic
+3136,Istanbul,2025-12-27,Social
+3137,Izmir,2025-08-02,Paid Ads
+3138,Van,2025-07-13,Paid Ads
+3139,Trabzon,2025-03-02,Organic
+3140,Diyarbakir,2025-06-09,Organic
+3141,Izmir,2025-07-07,Social
+3142,Samsun,2025-11-21,Paid Ads
+3143,Istanbul,2025-08-03,Email
+3144,Trabzon,2025-06-09,Organic
+3145,Istanbul,2025-09-23,Social
+3146,Van,2025-01-20,Social
+3147,Ankara,2025-09-21,Organic
+3148,Ankara,2025-01-25,Email
+3149,Van,2025-04-28,Email
+3150,Istanbul,2025-11-19,Social
+3151,Antalya,2025-11-17,Paid Ads
+3152,Istanbul,2025-04-16,Paid Ads
+3153,Ankara,2025-12-07,Paid Ads
+3154,Istanbul,2025-11-01,Social
+3155,Eskisehir,2025-02-23,Organic
+3156,Bursa,2025-12-07,Email
+3157,Trabzon,2025-04-03,Email
+3158,Istanbul,2025-11-05,Social
+3159,Bursa,2025-09-13,Paid Ads
+3160,Istanbul,2025-11-17,Organic
+3161,Gaziantep,2025-06-02,Organic
+3162,Bursa,2025-09-06,Social
+3163,Istanbul,2025-02-19,Email
+3164,Istanbul,2025-04-25,Organic
+3165,Istanbul,2025-06-12,Email
+3166,Trabzon,2025-09-20,Social
+3167,Istanbul,2025-03-25,Organic
+3168,Istanbul,2025-10-05,Paid Ads
+3169,Ankara,2025-10-02,Paid Ads
+3170,Eskisehir,2025-05-25,Organic
+3171,Bursa,2025-02-19,Paid Ads
+3172,Gaziantep,2025-12-20,Organic
+3173,Antalya,2025-04-09,Paid Ads
+3174,Istanbul,2025-03-19,Organic
+3175,Diyarbakir,2025-02-26,Email
+3176,Izmir,2025-10-06,Email
+3177,Gaziantep,2025-09-14,Organic
+3178,Antalya,2025-06-20,Social
+3179,Istanbul,2025-10-05,Social
+3180,Bursa,2025-01-02,Paid Ads
+3181,Izmir,2025-09-10,Organic
+3182,Istanbul,2025-08-07,Paid Ads
+3183,Izmir,2025-06-13,Organic
+3184,Istanbul,2025-03-03,Organic
+3185,Eskisehir,2025-04-14,Paid Ads
+3186,Trabzon,2025-11-01,Email
+3187,Antalya,2025-01-10,Organic
+3188,Ankara,2025-12-04,Paid Ads
+3189,Bursa,2025-01-24,Social
+3190,Antalya,2025-12-02,Social
+3191,Ankara,2025-09-23,Email
+3192,Ankara,2025-03-18,Paid Ads
+3193,Istanbul,2025-12-07,Social
+3194,Gaziantep,2025-09-07,Email
+3195,Antalya,2025-01-08,Social
+3196,Antalya,2025-04-12,Paid Ads
+3197,Van,2025-07-08,Paid Ads
+3198,Trabzon,2025-02-26,Organic
+3199,Istanbul,2025-08-12,Paid Ads
+3200,Ankara,2025-06-18,Paid Ads
